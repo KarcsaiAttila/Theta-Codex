@@ -237,4 +237,13 @@ A jövő nem véletlen, hanem szerkezet.
 
 ## 3. A Θ‑civilizáció
 Egy olyan világ, ahol a rend, a jelentés és a fejlődés egységet alkot.
+# XII. Mellékletek, diagramok, modellek
+
+Ebben a fejezetben találhatók:
+- a Θ‑rendszer diagramjai,
+- a modell vizuális térképei,
+- kiegészítő magyarázatok,
+- matematikai és logikai struktúrák.
+
+A tartalom folyamatosan bővül.
 
