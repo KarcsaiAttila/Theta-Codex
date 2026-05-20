@@ -132,20 +132,26 @@ A modern psziché egyik fő kihívása:
 **hogyan integrálódik az ember a mesterséges intelligenciával?**
 
 A Θ‑pszichológia erre ad választ.
-# IV. Θ‑Pszichológia
+# V. Θ‑Társadalom és Állam
 
-A Θ‑pszichológia az emberi tudatot rendszerszinten vizsgálja.
+A társadalom nem tömeg, hanem struktúra.
 
-## 1. A tudat három rétege
-- ösztön,
-- identitás,
-- értelem.
+## 1. A társadalom mint rendszer
+A társadalom működése a következő rétegekből áll:
+- egyén,
+- közösség,
+- intézmény,
+- infrastruktúra.
 
-## 2. A belső rendezettség
-A psziché stabilitása a belső struktúrák koherenciájától függ.
+## 2. Az állam szerepe
+Az állam feladata:  
+**a rendezettség fenntartása és a fejlődés biztosítása.**
 
-## 3. Az ember és a technológia kapcsolata
-A modern psziché egyik fő kihívása:  
-**hogyan integrálódik az ember a mesterséges intelligenciával?**
+## 3. A civilizációs stabilitás feltételei
+- koherens értékrend,
+- működő intézmények,
+- fenntartható energia,
+- kulturális identitás.
 
-A Θ‑pszichológia erre ad választ.
+A Θ‑társadalommodell egy új civilizációs szerkezet alapja.
+
