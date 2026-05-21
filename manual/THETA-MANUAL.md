@@ -772,3 +772,166 @@ Ha a zaj eltűnik → a konfliktus is eltűnik.
 ---
 
 # Fejezet 5 vége
+# 6. Döntési helyzetek tisztázása
+*A döntés nem jövőjóslás. A döntés irányválasztás. A tisztázás segít leválasztani a félelmet a valóságról.*
+
+A döntési helyzetekben a zaj különösen erős, mert:
+
+- a jövő ismeretlen  
+- a kimenetel bizonytalan  
+- a felelősség nagy  
+- a félelem aktív  
+- a túlértelmezés gyors  
+
+A tisztázás célja döntésben:
+
+👉 **nem a helyes döntést megtalálni,  
+hanem a tiszta irányt.**
+
+---
+
+## 6.1. A döntési zaj felismerése
+
+A döntési zaj tipikusan így hangzik:
+
+- „Mi van, ha rosszul döntök.”  
+- „Mi van, ha megbánom.”  
+- „Mi van, ha nem sikerül.”  
+- „Mi van, ha van jobb opció.”  
+- „Mi van, ha túl késő.”  
+- „Mi van, ha túl korán.”  
+
+A döntési zaj 90%-a:
+
+- félelem  
+- jövőbe vetítés  
+- túlértelmezés  
+- irreális elvárás  
+
+A döntési zaj SOHA nem tény.
+
+---
+
+## 6.2. A döntési helyzet tisztázásának 4 lépése
+
+### **1) Mi a tény?**
+
+A döntési tény gyakran nagyon egyszerű:
+
+- „Két lehetőség közül kell választanom.”  
+- „Nem tudom, melyik a jobb.”  
+- „A helyzet változott.”  
+- „Határidő közeledik.”  
+
+A tény SOHA nem tartalmazza:
+
+- a jövő kimenetelét  
+- a mások reakcióját  
+- a saját félelmedet  
+
+---
+
+### **2) Mi a zaj?**
+
+A döntési zaj:
+
+- jövőjóslás  
+- félelem  
+- túlértelmezés  
+- irreális elvárás  
+- maximalizmus  
+- „tökéletes döntés” keresése  
+
+Példa:
+
+„Ha ezt választom → biztos rossz lesz → biztos megbánom → biztos minden borul → biztos nem fog sikerülni.”
+
+Ez mind zaj.
+
+---
+
+### **3) Mi biztos? (stabil pont)**
+
+A stabil pont döntésben gyakran:
+
+- „Nem tudom a jövőt.”  
+- „Csak a jelen helyzetet látom.”  
+- „A félelmem nem tény.”  
+- „A döntés nem végzet, csak irány.”  
+- „A következő lépést tudom, a végeredményt nem.”  
+
+A stabil pont döntésben a legfontosabb:
+
+👉 **A döntés nem a jövőt dönti el, hanem a következő lépést.**
+
+---
+
+### **4) Mi a következő tiszta lépés?**
+
+A tiszta lépés döntésben lehet:
+
+- információt gyűjteni  
+- összeírni a tényeket  
+- összeírni a zajt külön  
+- beszélni valakivel  
+- kipróbálni kicsiben  
+- időt kérni  
+- priorizálni  
+- egyszerűsíteni  
+
+A tiszta lépés NEM a végső döntés.  
+A tiszta lépés a döntés *előszobája*.
+
+---
+
+## 6.3. Gyakori döntési helyzetek és tisztázásuk
+
+### **Két lehetőség között választás**
+- Tény: „Két opció van.”  
+- Zaj: „Az egyik biztos rossz.”  
+- Stabil pont: „Nem tudom, melyik a jobb — és ez rendben van.”  
+- Tiszta lépés: „Összeírom a tényeket mindkettőről.”
+
+---
+
+### **Félelem a rossz döntéstől**
+- Tény: „Félek.”  
+- Zaj: „Ha félek, biztos rossz lesz.”  
+- Stabil pont: „A félelem érzés, nem tény.”  
+- Tiszta lépés: „Megnézem, mitől félek pontosan.”
+
+---
+
+### **Túl sok információ**
+- Tény: „Sok információ van.”  
+- Zaj: „Mindent tudnom kell.”  
+- Stabil pont: „Nem kell mindent tudnom.”  
+- Tiszta lépés: „Kiválasztom a 3 legfontosabb szempontot.”
+
+---
+
+### **Időnyomás**
+- Tény: „Közeledik a határidő.”  
+- Zaj: „Biztos elrontom, ha sietek.”  
+- Stabil pont: „A határidő tény, a kimenetel nem biztos.”  
+- Tiszta lépés: „Kijelölöm a legközelebbi lépést.”
+
+---
+
+## 6.4. A döntési tisztázás aranyszabálya
+
+**A döntés nem arról szól, hogy biztosra menj.  
+A döntés arról szól, hogy tisztán menj.**
+
+---
+
+## 6.5. Gyors döntési tisztázási protokoll
+
+1. Mi a tény?  
+2. Mi a zaj?  
+3. Mi biztos?  
+4. Mi a következő tiszta lépés?
+
+---
+
+# Fejezet 6 vége
