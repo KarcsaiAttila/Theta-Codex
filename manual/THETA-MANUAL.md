@@ -140,3 +140,157 @@ A tisztázás **helyzet‑tisztítás**.
 
 # Fejezet 1 vége
 
+# 2. Belső helyzetek tisztázása
+*Ahol a legtöbb ember elakad. Ahol a legtöbb zaj keletkezik. Ahol a tisztázás a legerősebb.*
+
+A belső helyzetek azok, amikor **nem a világ csinál valamit**, hanem *te* reagálsz valamire:
+
+- szorongás  
+- túlgondolás  
+- érzelmi hullámzás  
+- belső konfliktus  
+- „nem tudom, mi bajom van” érzés  
+- túl sok inger  
+- túl kevés kontroll  
+
+A tisztázás itt működik a legmélyebben.
+
+---
+
+## 2.1. A belső zaj felismerése
+
+A belső zaj:
+
+- gyors  
+- érzelmes  
+- szétszórt  
+- túl sok  
+- nem bizonyítható  
+- nem megfigyelhető  
+- nem stabil  
+
+A belső zaj NEM ellenség.  
+A belső zaj **jelzés**.
+
+Azt mutatja, hogy:
+
+- túl sok a feltételezés  
+- túl kevés a stabil pont  
+- túl nagy a belső nyomás  
+
+---
+
+## 2.2. A belső helyzet tisztázásának 4 lépése
+
+### **1) Mi történik valójában?**
+Ez gyakran így hangzik:
+
+- „Erős érzelmet érzek.”  
+- „Feszült vagyok.”  
+- „Kavarog bennem valami.”  
+
+Ez mind tény.  
+A „miért” NEM tény.
+
+---
+
+### **2) Mi a zaj?**
+A belső zaj tipikus formái:
+
+- „Biztos elrontottam valamit.”  
+- „Nem vagyok elég jó.”  
+- „Mások jobban csinálják.”  
+- „Nem fog sikerülni.”  
+- „Mi van, ha…?”  
+- „Mindig ez van.”  
+
+A zaj 90%-a félelem + feltételezés.
+
+---
+
+### **3) Mi biztos? (stabil pont)**
+
+A stabil pont belső helyzetben gyakran ilyen:
+
+- „Erős érzelmet érzek, de nem tudom, miért.”  
+- „A gondolataim gyorsak, de nem tények.”  
+- „A testem feszül, de ez csak állapot.”  
+- „Nem tudom, mi lesz – és ez rendben van.”  
+
+A stabil pont **nem megoldás**.  
+A stabil pont **talaj**.
+
+---
+
+### **4) Mi a következő tiszta lépés?**
+
+Belső helyzetben a tiszta lépés lehet:
+
+- 3 mély levegő  
+- 5 perc séta  
+- egy pohár víz  
+- leülni és leírni a tényt  
+- abbahagyni a gondolatspirált  
+- időt adni magadnak  
+- egyetlen konkrét feladatot megcsinálni  
+
+A tiszta lépés mindig:
+
+- kicsi  
+- egyszerű  
+- megtehető  
+- azonnali  
+
+---
+
+## 2.3. Gyakori belső helyzetek és tisztázásuk
+
+### **Szorongás**
+- Tény: „Erős testi feszültséget érzek.”  
+- Zaj: „Biztos baj lesz.”  
+- Stabil pont: „A feszültség érzés, nem tény.”  
+- Tiszta lépés: „Lélegzem 1 percig.”
+
+---
+
+### **Túlgondolás**
+- Tény: „Sok gondolat fut egyszerre.”  
+- Zaj: „Mindet meg kell oldanom.”  
+- Stabil pont: „Nem kell mindet most megoldani.”  
+- Tiszta lépés: „Kiválasztok egyet.”
+
+---
+
+### **Érzelmi hullámzás**
+- Tény: „Az érzelmem erős.”  
+- Zaj: „Ez biztos jelent valamit.”  
+- Stabil pont: „Az érzelem állapot, nem tény.”  
+- Tiszta lépés: „Várok 10 percet döntés előtt.”
+
+---
+
+### **„Nem tudom, mi bajom van”**
+- Tény: „Zavarodottnak érzem magam.”  
+- Zaj: „Biztos nagy baj van.”  
+- Stabil pont: „A zavarodottság normális állapot.”  
+- Tiszta lépés: „Megnevezem az érzést, ha tudom.”
+
+---
+
+## 2.4. A belső tisztázás aranyszabálya
+
+**Amit érzel, az valós.  
+Amit gondolsz róla, az nem biztos.**
+
+---
+
+## 2.5. Gyors belső tisztázási protokoll
+
+1. Mi történik bennem?  
+2. Mi a zaj?  
+3. Mi biztos?  
+4. Mi a következő tiszta lépés?
+
+---
+
+# Fejezet 2 vége
