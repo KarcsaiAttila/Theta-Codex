@@ -1358,3 +1358,96 @@ A tisztázás téged tesz tisztává — és a tiszta ember tiszta helyzeteket h
 ---
 
 # Fejezet 9 vége
+# 10. Függelék – Gyors sablonok
+*A tisztázás gyakorlati eszközei. Rövid, tiszta, azonnal használható minták minden helyzetre.*
+
+A sablonok célja nem az, hogy helyetted gondolkodjanak.  
+A sablonok célja az, hogy **gyorsítsák a tisztázást**, amikor:
+
+- kevés az idő  
+- erős az érzelem  
+- sok a zaj  
+- gyors döntés kell  
+- kapcsolatban csúszás van  
+- külső helyzet változik  
+
+---
+
+## 10.1. Általános tisztázási sablon (4 lépés)
+
+1. **Tény:** Mi történt valójában?  
+2. **Zaj:** Mit gondolok róla, ami nem bizonyítható?  
+3. **Stabil pont:** Mi biztos?  
+4. **Tiszta lépés:** Mi a következő kicsi, megtehető lépés?
+
+---
+
+## 10.2. Belső helyzet sablon
+
+1. **Tény:** „Erős érzelmet érzek.”  
+2. **Zaj:** „Biztos baj lesz / biztos elrontottam / biztos rossz irány.”  
+3. **Stabil pont:** „Az érzelem valós, a jelentése nem biztos.”  
+4. **Tiszta lépés:** légzés, séta, szünet, egy feladat kiválasztása.
+
+---
+
+## 10.3. Külső helyzet sablon
+
+1. **Tény:** „A helyzet megváltozott.”  
+2. **Zaj:** „Ez biztos rossz / biztos gond / biztos nem fog menni.”  
+3. **Stabil pont:** „A változás tény, a jelentése nem biztos.”  
+4. **Tiszta lépés:** információkérés, újratervezés, priorizálás.
+
+---
+
+## 10.4. Kapcsolati helyzet sablon
+
+1. **Tény:** „A másik ezt mondta / ezt tette.”  
+2. **Zaj:** „Biztos haragszik / biztos rosszat gondol / biztos direkt csinálja.”  
+3. **Stabil pont:** „A szándékát nem tudom.”  
+4. **Tiszta lépés:** rákérdezés, tiszta kommunikáció, idő adása.
+
+---
+
+## 10.5. Konfliktus sablon
+
+1. **Tény:** „A hangnem megemelkedett / elment / nemet mondott.”  
+2. **Zaj:** „Biztos ellenem van / biztos bántani akar.”  
+3. **Stabil pont:** „A viselkedést látom, a szándékot nem.”  
+4. **Tiszta lépés:** idő kérés, tény kimondása, rákérdezés.
+
+---
+
+## 10.6. Döntési sablon
+
+1. **Tény:** „Két (vagy több) opció van.”  
+2. **Zaj:** „Mi van, ha rosszul döntök / mi van, ha megbánom.”  
+3. **Stabil pont:** „A jövőt nem tudom, a jelen helyzetet igen.”  
+4. **Tiszta lépés:** információgyűjtés, egyszerűsítés, kipróbálás kicsiben.
+
+---
+
+## 10.7. 30 másodperces tisztázó kártya
+
+- Mi történt?  
+- Mi a zaj?  
+- Mi biztos?  
+- Mi a következő tiszta lépés?
+
+Ezt érdemes fejben tartani.  
+Ez a tisztázás „zseblámpája”.
+
+---
+
+## 10.8. 10 perces mély tisztázó kártya
+
+- Tény 1 mondatban  
+- Zaj külön  
+- Zaj típusai (félelem / feltételezés / múlt)  
+- Stabil pont  
+- Tiszta lépés  
+- Ellenőrzés: kicsi? megtehető? tiszta?
+
+---
+
+# Fejezet 10 vége
