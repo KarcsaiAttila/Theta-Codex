@@ -604,3 +604,171 @@ A kettőt SOHA nem szabad összekeverni.
 ---
 
 # Fejezet 4 vége
+# 5. Konfliktusok tisztázása
+*Ahol két ember zaja találkozik. Ahol a tények eltűnnek. Ahol a tisztázás visszahozza a valóságot.*
+
+A konfliktus nem akkor kezdődik, amikor két ember vitatkozik.  
+A konfliktus akkor kezdődik, amikor:
+
+- a tény eltűnik  
+- a zaj átveszi az irányítást  
+- a másik szándékát feltételezed  
+- a saját érzelmedet tényként kezeled  
+
+A tisztázás itt a legerősebb eszköz.
+
+---
+
+## 5.1. Mi történik konfliktusban?
+
+Konfliktusban:
+
+- gyorsabb a zaj  
+- erősebb az érzelem  
+- szűkebb a figyelem  
+- torzabb az értelmezés  
+- nagyobb a szándéktulajdonítás  
+- kisebb a türelem  
+
+A konfliktusban a valóság **összezsugorodik**, és csak a saját nézőpontod marad.
+
+A tisztázás ezt tágítja vissza.
+
+---
+
+## 5.2. A konfliktus tisztázásának 4 lépése
+
+### **1) Mi történt valójában? (tény)**
+
+Konfliktusban a tény gyakran meglepően egyszerű:
+
+- „Felemelte a hangját.”  
+- „Elment.”  
+- „Nemet mondott.”  
+- „Másképp gondolja.”  
+- „Nem értett egyet.”  
+
+A tény SOHA nem tartalmazza:
+
+- a másik szándékát  
+- a másik érzelmét  
+- a másik motivációját  
+
+Ezek mind zaj.
+
+---
+
+### **2) Mi a zaj?**
+
+Konfliktusban a zaj:
+
+- gyors  
+- erős  
+- személyes  
+- védekező  
+- támadó  
+- múltbeli mintákat aktiváló  
+
+Tipikus konfliktuszaj:
+
+- „Biztos nem tisztel.”  
+- „Biztos direkt csinálja.”  
+- „Biztos bántani akar.”  
+- „Biztos nem érdeklem.”  
+- „Mindig ezt csinálja.”  
+- „Soha nem figyel rám.”  
+
+A konfliktuszaj 90%-a **szándéktulajdonítás**.
+
+---
+
+### **3) Mi biztos? (stabil pont)**
+
+A stabil pont konfliktusban gyakran:
+
+- „A saját reakcióm erős, de nem tény.”  
+- „A másik szándékát nem tudom.”  
+- „Csak a viselkedést látom, nem a belső világát.”  
+- „A tény egyszerűbb, mint a történet.”  
+
+A stabil pont konfliktusban a legfontosabb:
+
+👉 **Nem tudom, miért csinálta. Csak azt tudom, hogy csinálta.**
+
+Ez a mondat a konfliktusok 80%-át azonnal lehűti.
+
+---
+
+### **4) Mi a következő tiszta lépés?**
+
+Konfliktusban a tiszta lépés lehet:
+
+- időt kérni  
+- lehiggadni  
+- tényt mondani, nem értelmezést  
+- rákérdezni a másik szándékára  
+- elmondani a saját érzést, nem a másik hibáját  
+- tisztázni, nem támadni  
+
+Példák:
+
+- „Most erős bennem az érzelem, kérek 10 percet.”  
+- „A tény az, hogy felemelted a hangod. Miért?”  
+- „Nem tudom, miért reagáltál így. Elmondod?”  
+- „A saját zajom erős, szeretném tisztázni.”  
+
+---
+
+## 5.3. Gyakori konfliktushelyzetek és tisztázásuk
+
+### **Felemelte a hangját**
+- Tény: „Felemelte a hangját.”  
+- Zaj: „Biztos engem támad.”  
+- Stabil pont: „A szándékát nem tudom.”  
+- Tiszta lépés: „Megkérdezem, miért lett hangos.”
+
+---
+
+### **Elment / kilépett a helyzetből**
+- Tény: „Elment.”  
+- Zaj: „Biztos nem érdeklem.”  
+- Stabil pont: „Nem tudom, miért ment el.”  
+- Tiszta lépés: „Rákérdezek később, mi történt.”
+
+---
+
+### **Nemet mondott**
+- Tény: „Nemet mondott.”  
+- Zaj: „Biztos ellenem van.”  
+- Stabil pont: „A nem tény, a szándék nem biztos.”  
+- Tiszta lépés: „Megkérdezem, miért.”
+
+---
+
+### **Nem ért egyet**
+- Tény: „Másképp gondolja.”  
+- Zaj: „Biztos engem kritizál.”  
+- Stabil pont: „A véleménykülönbség nem támadás.”  
+- Tiszta lépés: „Megértem az ő nézőpontját.”
+
+---
+
+## 5.4. A konfliktus tisztázás aranyszabálya
+
+**A konfliktus nem két ember között van.  
+A konfliktus a két ember zajai között van.**
+
+Ha a zaj eltűnik → a konfliktus is eltűnik.
+
+---
+
+## 5.5. Gyors konfliktus tisztázási protokoll
+
+1. Mi történt? (tény)  
+2. Mit gondolok róla? (zaj)  
+3. Mi biztos?  
+4. Mi a következő tiszta lépés?
+
+---
+
+# Fejezet 5 vége
