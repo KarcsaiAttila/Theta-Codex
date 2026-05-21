@@ -294,3 +294,154 @@ Amit gondolsz róla, az nem biztos.**
 ---
 
 # Fejezet 2 vége
+# 3. Külső helyzetek tisztázása
+*Ahol a világ történik körülötted. Ahol a helyzetek gyorsak, váratlanok, néha kaotikusak. A tisztázás itt ad stabilitást.*
+
+A külső helyzetek azok, amikor **nem benned van a zaj forrása**, hanem:
+
+- esemény történik  
+- valaki mond valamit  
+- valami megváltozik  
+- valami váratlan jön  
+- valami nem úgy alakul, ahogy tervezted  
+
+A külső helyzetekben a tisztázás célja:
+
+- leválasztani a tényt a reakciódról  
+- megtalálni a stabil pontot  
+- kijelölni a következő tiszta lépést  
+
+---
+
+## 3.1. A külső zaj felismerése
+
+A külső zaj tipikusan így jelenik meg:
+
+- „Ez nem így kellett volna legyen.”  
+- „Miért pont most?”  
+- „Miért pont velem?”  
+- „Ez így kezelhetetlen.”  
+- „Túl sok minden történik egyszerre.”  
+
+A külső zaj NEM a helyzetből jön.  
+A külső zaj **a helyzet értelmezéséből** jön.
+
+---
+
+## 3.2. A külső helyzet tisztázásának 4 lépése
+
+### **1) Mi történik valójában?**
+Ez a tény.  
+Nem a véleményed róla.  
+Nem a reakciód.  
+Nem a félelmed.
+
+### Példák:
+- „A projekt határideje előrébb került.”  
+- „A bolt zárva van.”  
+- „A terv megváltozott.”  
+- „Valaki nemet mondott.”  
+
+---
+
+### **2) Mi a zaj?**
+A külső zaj gyakran így hangzik:
+
+- „Ez így rossz.”  
+- „Ez biztos bajt jelent.”  
+- „Most minden borul.”  
+- „Nem fogom tudni megoldani.”  
+- „Ez mindig így van.”  
+
+A zaj itt is: félelem + feltételezés + túlértelmezés.
+
+---
+
+### **3) Mi biztos? (stabil pont)**
+
+A stabil pont külső helyzetben gyakran:
+
+- „A helyzet megváltozott, de ez tény.”  
+- „Nem tudom, miért történt, csak azt, hogy megtörtént.”  
+- „A reakcióm erős, de nem tény.”  
+- „A következő lépést még nem tudom, de meg fogom találni.”  
+
+A stabil pont **nem a helyzet megoldása**, hanem a helyzet *tisztán látása*.
+
+---
+
+### **4) Mi a következő tiszta lépés?**
+
+Külső helyzetben a tiszta lépés lehet:
+
+- információt kérni  
+- újratervezni  
+- időt kérni  
+- priorizálni  
+- delegálni  
+- egyszerűsíteni  
+- egyetlen konkrét feladatot megcsinálni  
+
+A tiszta lépés itt is:
+
+- kicsi  
+- megtehető  
+- tiszta  
+- előre mutató  
+
+---
+
+## 3.3. Gyakori külső helyzetek és tisztázásuk
+
+### **Váratlan változás**
+- Tény: „A terv megváltozott.”  
+- Zaj: „Ez biztos rossz.”  
+- Stabil pont: „A változás tény, a jelentése nem biztos.”  
+- Tiszta lépés: „Megnézem, mi változott pontosan.”
+
+---
+
+### **Túl sok feladat**
+- Tény: „Sok feladat van.”  
+- Zaj: „Ezt lehetetlen megcsinálni.”  
+- Stabil pont: „Nem tudom, lehetetlen‑e, csak azt, hogy sok.”  
+- Tiszta lépés: „Kiválasztok egyet.”
+
+---
+
+### **Valaki nemet mond**
+- Tény: „Nemet mondott.”  
+- Zaj: „Biztos haragszik.”  
+- Stabil pont: „A nem tény, a szándék nem biztos.”  
+- Tiszta lépés: „Megkérdezem, miért.”
+
+---
+
+### **Késés / csúszás**
+- Tény: „Késik.”  
+- Zaj: „Biztos nem tisztel.”  
+- Stabil pont: „A késés tény, a jelentése nem biztos.”  
+- Tiszta lépés: „Rákérdezek, minden rendben van‑e.”
+
+---
+
+## 3.4. A külső tisztázás aranyszabálya
+
+**A helyzet nem ellened történik.  
+A helyzet egyszerűen megtörténik.**
+
+A jelentést te adod hozzá.  
+A tisztázás ezt a jelentést tisztítja ki.
+
+---
+
+## 3.5. Gyors külső tisztázási protokoll
+
+1. Mi történt? (tény)  
+2. Mi a zaj?  
+3. Mi biztos?  
+4. Mi a következő tiszta lépés?
+
+---
+
+# Fejezet 3 vége
