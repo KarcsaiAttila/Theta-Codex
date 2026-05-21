@@ -935,3 +935,139 @@ A döntés arról szól, hogy tisztán menj.**
 ---
 
 # Fejezet 6 vége
+# 7. A tisztázás mint napi rutin
+*A tisztázás akkor válik erővé, amikor nem külön gyakorlat, hanem természetes működés.*
+
+A tisztázás nem csak problémamegoldás.  
+Nem csak krízishelyzetekre való.  
+Nem csak akkor kell elővenni, amikor baj van.
+
+A tisztázás akkor működik igazán, amikor:
+
+- reflexszé válik  
+- automatikusan beindul  
+- nem kell külön „megcsinálni”  
+- a gondolkodásod részévé válik  
+
+Ez a fejezet arról szól, hogyan épül be a mindennapokba.
+
+---
+
+## 7.1. Mikor érdemes tisztázni?
+
+### **1) Amikor érzelmi hullám indul**
+- gyors szívverés  
+- feszültség  
+- düh  
+- szorongás  
+- túlreagálás  
+
+### **2) Amikor túl sok a gondolat**
+- spirál  
+- túlgondolás  
+- „mi van, ha…”  
+
+### **3) Amikor valaki mást félreértesz**
+- rövid üzenet  
+- furcsa hangnem  
+- visszahúzódás  
+
+### **4) Amikor dönteni kell**
+- két opció  
+- bizonytalanság  
+- félelem  
+
+### **5) Amikor változás történik**
+- új helyzet  
+- új információ  
+- váratlan esemény  
+
+A tisztázás mindenhol működik, ahol **zaj** jelenik meg.
+
+---
+
+## 7.2. Hogyan épül be reflexszé?
+
+A tisztázás akkor válik rutinná, amikor:
+
+- nem kell külön „leülni” hozzá  
+- nem kell külön „megcsinálni”  
+- a gondolkodásod automatikusan a 4 lépés szerint szerveződik  
+
+Ez így néz ki a gyakorlatban:
+
+- meglátsz egy helyzetet → automatikusan keresed a tényt  
+- érzel valamit → automatikusan különválasztod a zajt  
+- bizonytalan vagy → automatikusan keresed a stabil pontot  
+- elakadsz → automatikusan keresed a következő tiszta lépést  
+
+Ez a tisztázás végső formája:  
+**nem csinálod — így gondolkodsz.**
+
+---
+
+## 7.3. Gyors tisztázási protokoll (30 másodperc)
+
+Ez a „mikro‑tisztázás”, amit naponta akár 20–30 alkalommal is használhatsz.
+
+1. Mi történt? (tény)  
+2. Mi a zaj?  
+3. Mi biztos?  
+4. Mi a következő tiszta lépés?
+
+Ez a négy mondat képes megállítani:
+
+- túlgondolást  
+- félreértést  
+- érzelmi spirált  
+- konfliktust  
+- döntési bénultságot  
+
+---
+
+## 7.4. Mély tisztázási protokoll (5–10 perc)
+
+Ezt akkor használod, amikor:
+
+- nagy a zaj  
+- erős az érzelem  
+- fontos a helyzet  
+- sok a bizonytalanság  
+
+Lépések:
+
+1. Írd le a tényt 1 mondatban  
+2. Írd le a zajt külön  
+3. Jelöld meg, melyik zaj félelem, melyik feltételezés  
+4. Írd le a stabil pontot  
+5. Írd le a következő tiszta lépést  
+6. Ellenőrizd: megtehető? tiszta? kicsi?
+
+Ez a protokoll mélyen tisztítja a helyzetet.
+
+---
+
+## 7.5. A tisztázás mint életmód
+
+A tisztázás akkor válik életmóddá, amikor:
+
+- nem reagálsz automatikusan  
+- nem feltételezel  
+- nem tulajdonítasz szándékot  
+- nem kevered össze a tényt az értelmezéssel  
+- nem hagyod, hogy a zaj vezessen  
+
+A tisztázás életmódja:
+
+- tiszta kommunikáció  
+- tiszta döntések  
+- tiszta kapcsolatok  
+- tiszta irány  
+- tiszta működés  
+
+Ez a Θ‑rendszer végső célja:  
+**egy tisztább élet.**
+
+---
+
+# Fejezet 7 vége
