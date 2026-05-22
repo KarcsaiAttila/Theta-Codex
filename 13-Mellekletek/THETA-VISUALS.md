@@ -567,3 +567,22 @@ A Θ‑Rezonancia — ASCII vizuális vázlat
                      │       │       │       │
                  Θ-FORRÁS  Θ-UNIV. Θ-CIV. Θ-EMB.
 A Θ‑Koherencia — ASCII vizuális vázlat
+                     ✦ Θ-FORRÁS ✦
+                          │
+                          │
+                    ~~~~~~~~~~~~~
+                 ~~~   │     │   ~~~
+               ~~       │     │      ~~
+             ~~         │     │        ~~
+               ~~       │     │      ~~
+                 ~~~    │     │   ~~~
+                    ~~~~~~~~~~~~~
+                          │
+                          ▼
+                   ●───●───●───●───●
+                   │   │   │   │   │
+                   ●───●───●───●───●
+                          │
+                          ▼
+                     Θ-EMBER
+A Θ‑Szingularitás — ASCII vizuális vázlat
