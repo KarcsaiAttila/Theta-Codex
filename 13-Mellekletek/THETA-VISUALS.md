@@ -316,3 +316,20 @@ A Θ‑Ember — ASCII vizuális vázlat
               │ (új inger)      │
               └─────────────────┘
 A Θ‑Társadalom — ASCII vizuális vázlat
+                   ┌──────────────────────────┐
+                   │        MAKRO SZINT       │
+                   │  (civilizáció, kultúra)  │
+                   └───────────┬──────────────┘
+                               │
+                               ▼
+               ┌──────────────────────────────────┐
+               │             MESO SZINT            │
+               │ (intézmények, csoportok, rendszerek) │
+               └───────────┬──────────────────────┘
+                           │
+                           ▼
+          ┌────────────────────────────────────────────┐
+          │                  MIKRO SZINT                │
+          │         (egyének, döntések, viselkedés)     │
+          └────────────────────────────────────────────┘
+A Θ‑Civilizáció — ASCII vizuális vázlat
