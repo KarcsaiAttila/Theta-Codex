@@ -445,3 +445,30 @@ A Θ‑FORRÁS vizuális modellje
  ●───────────────●─────────────●───────────────●───────────────●
   Tudat           Rendszer      Energia        Létezés         Nem‑Létezés
 A Θ‑Kapu — ASCII vizuális vázlat
+                     ✦  Θ-FORRÁS  ✦
+                          (Origó)
+                             │
+                             ▼
+                   ┌─────────────────┐
+                   │  META-KAPU      │
+                   │ (Transzdimenzió)│
+                   └───────┬─────────┘
+                           │
+                           ▼
+                 ┌──────────────────────┐
+                 │   KOZMIKUS KAPU      │
+                 │ (Tudat → Univerzum)  │
+                 └─────────┬────────────┘
+                           │
+                           ▼
+             ┌────────────────────────────┐
+             │      CIVILIZÁCIÓS KAPU     │
+             │ (Univerzum → Civilizáció)  │
+             └─────────────┬──────────────┘
+                           │
+                           ▼
+        ┌────────────────────────────────────┐
+        │           EMBERI KAPU              │
+        │ (Civilizáció → Egyén / Egyén → Forrás) │
+        └────────────────────────────────────┘
+A Θ‑Áramlás — ASCII vizuális vázlat
