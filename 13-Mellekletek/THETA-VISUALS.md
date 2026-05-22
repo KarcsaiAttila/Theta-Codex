@@ -285,3 +285,34 @@ A Θ‑Operációs Ciklus — ASCII vizuális vázlat
                     ▼
           (új KÜLÖNBSÉG)
 A Θ‑Ember — ASCII vizuális vázlat
+                   ┌───────────────┐
+                   │     TUDAT     │
+                   │  (felső réteg)│
+                   └───────┬───────┘
+                           │
+                           ▼
+        ┌───────────────────────────────┐
+        │           RENDSZER            │
+        │ (személyiség, mintázatok,     │
+        │  szokások, struktúrák)        │
+        └───────────────┬──────────────┘
+                        │
+                        ▼
+              ┌─────────────────┐
+              │     ENERGIA     │
+              │ (érzelmek,      │
+              │  motivációk)    │
+              └─────────┬───────┘
+                        │
+                        ▼
+              ┌─────────────────┐
+              │ MEGNYILVÁNULÁS  │
+              │ (viselkedés)    │
+              └─────────┬───────┘
+                        │
+                        ▼
+              ┌─────────────────┐
+              │  KÜLÖNBSÉG      │
+              │ (új inger)      │
+              └─────────────────┘
+A Θ‑Társadalom — ASCII vizuális vázlat
