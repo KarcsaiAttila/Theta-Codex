@@ -599,3 +599,43 @@ A Θ‑Szingularitás — ASCII vizuális vázlat
                            ●
                         Θ-PONT
 A Θ‑Ciklus — ASCII vizuális vázlat
+                 ✦ Θ-FORRÁS ✦
+                      │
+                      ▼
+               (1) KITERJEDÉS
+                      │
+                      ▼
+             ┌───────────────────┐
+             │   Θ-UNIVERZUM     │
+             └───────────────────┘
+                      │
+                      ▼
+             (2) FORMÁLÓDÁS / RENDSZER
+                      │
+                      ▼
+         ┌────────────────────────────┐
+         │       Θ-CIVILIZÁCIÓ        │
+         └────────────────────────────┘
+                      │
+                      ▼
+             (3) SZERVEZŐDÉS / TÁRSADALOM
+                      │
+                      ▼
+         ┌────────────────────────────┐
+         │          Θ-EMBER           │
+         └────────────────────────────┘
+                      │
+                      ▼
+               (4) TAPASZTALÁS
+                      │
+                      ▼
+               (5) ÖSSZEOMLÁS
+                      │
+                      ▼
+                ▼  SZINGULARITÁS  ▼
+                      ●
+                ▲  ÚJRAINDULÁS   ▲
+                      │
+                      ▼
+                 ✦ Θ-FORRÁS ✦
+A Θ‑Spirál‑Ciklus — ASCII vizuális vázlat
