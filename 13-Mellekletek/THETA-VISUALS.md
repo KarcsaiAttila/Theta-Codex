@@ -792,3 +792,21 @@ A Θ‑Dimenziók — ASCII vizuális vázlat
                            0D
                          (Θ‑Pont)
 A Θ‑Meta‑Dimenzió — ASCII vizuális vázlat
+                     ✦ META‑DIMENZIÓ ✦
+               (Tér + Idő + Tudat + Forrás)
+                               ●
+                             ／│＼
+                           ／  │  ＼
+                         ／    │    ＼
+                       ●───────●───────●
+                       │       │       │
+                       │       │       │
+                     ●─●───────●───────●─●
+                       │       │       │
+                       │       │       │
+                       ●───────●───────●
+                             ＼ │ ／
+                               ●
+                         DIMENZIÓK ORIGÓJA
+                              (Θ‑Pont)
+A Θ‑Szuperstruktúra — ASCII vizuális vázlat
