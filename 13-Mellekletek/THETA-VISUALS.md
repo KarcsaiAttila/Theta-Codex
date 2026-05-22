@@ -198,3 +198,38 @@ A Θ‑Spirál — ASCII vizuális vázlat
              \_________________/
                  ↓  CIKLUS
 A Θ‑Rendszer Térképe — ASCII vizuális vázlat
+                         ┌───────────────────────┐
+                         │       Θ‑META          │
+                         │  (ontológiai alap)    │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │      Θ‑CODEX          │
+                         │ (elméleti rendszer)   │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │     Θ‑MANUAL          │
+                         │ (gyakorlati működés)  │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │   Θ‑SYNTHESIS         │
+                         │ (összekapcsolás)      │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │      Θ‑PATH           │
+                         │ (tanulási útvonal)    │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │    Θ‑VISUALS          │
+                         │ (vizuális rendszer)   │
+                         └───────────────────────┘
+A Θ‑Rendszer 3D Holografikus Modellje — ASCII vázlat
