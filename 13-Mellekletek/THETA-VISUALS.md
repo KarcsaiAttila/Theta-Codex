@@ -950,3 +950,125 @@ A Θ‑Kód — ASCII vizuális vázlat
 
             HÁLÓ‑KÓD: PONTOK + KAPCSOLATOK + IRÁNYOK + SZINTEK
 A Θ‑Nyelv — ASCII vizuális vázlat
+A Θ‑Nyelv alapegysége: a KÓD‑SZÓ
+          ●───Θ───●
+        ╱    │    ╲
+      ●──────●──────●
+        ╲    │    ╱
+          ●───Θ───●
+A Θ‑Nyelv mondatszerkezete: a KÓD‑SOR
+   ●──Θ──●   ●──Θ──●   ●──Θ──●   ●──Θ──●
+   │    │   │    │   │    │   │    │
+   ●────●───●────●───●────●───●────●
+A Θ‑Nyelv bekezdése: a KÓD‑MEZŐ
+   ●──Θ──●   ●──Θ──●   ●──Θ──●
+   │    │   │    │   │    │
+   ●────●───●────●───●────●
+   │    │   │    │   │    │
+   ●──Θ──●   ●──Θ──●   ●──Θ──●
+A Θ‑Nyelv teljes szerkezete: a KÓD‑MANDALA
+                 ●───Θ───●
+              ╱     │     ╲
+           ●───────●●●───────●
+              ╲     │     ╱
+                 ●───Θ───●
+A Θ‑Írás — ASCII vizuális vázlat
+   Θ      ●      ─      │      ╱      ╲
+ KAPU   PONT   VONAL   TENGELY  BAL ÍV  JOBB ÍV
+A Θ‑Írás összetett karakterei (MODUL‑RÚNÁK)
+     ●──Θ──●        ●──●──●        Θ──●──Θ
+   KAPU‑MODUL     HÁLÓ‑MODUL     SPIRÁL‑MODUL
+A Θ‑Írás fraktál‑karakterei (FRAKTÁL‑RÚNÁK)
+      ●──Θ──●
+     ╱  ╱ ╲  ╲
+   ●──●     ●──●
+     ╲  ╲ ╱  ╱
+      ●──Θ──●
+A Θ‑Írás mondat‑karakterei (SZERKEZET‑RÚNÁK)
+   ●──Θ──●   ●──Θ──●   ●──Θ──●
+   │    │   │    │   │    │
+   ●────●───●────●───●────●
+A Θ‑Írás mandala‑karakterei (EGÉSZ‑RÚNÁK)                 ●───Θ───●
+              ╱     │     ╲
+           ●───────●●●───────●
+              ╲     │     ╱
+                 ●───Θ───●
+A Θ‑Szövet — ASCII vizuális vázlat
+szövet alapmodulja: a SZÖVET‑CSOMÓ
+        ●──Θ──●
+        │  │  │
+     ●──●  Θ  ●──●
+        │  │  │
+        ●──Θ──●
+A szövet mezője: a SZÖVET‑RÁCS
+   ●──Θ──●──Θ──●──Θ──●
+   │    │    │    │
+   ●──●──●──●──●──●──●
+   │    │    │    │
+   ●──Θ──●──Θ──●──Θ──●
+A szövet spirálja: a SZÖVET‑SPIRÁL
+               Θ
+            ╱     ╲
+         ●──Θ──●──Θ──●
+       ╱     ╱     ╲     ╲
+     ●──●──●         ●──●──●
+       ╲     ╲     ╱     ╱
+         ●──Θ──●──Θ──●
+            ╲     ╱
+               Θ
+A szövet mandalája: a SZÖVET‑MANDALA
+                 ●───Θ───●
+              ╱    │││    ╲
+           ●──●──● Θ Θ ●──●──●
+              ╲    │││    ╱
+                 ●───Θ───●
+A Θ‑Meta‑Szövet — ASCII vizuális vázlat
+A meta‑szövet alapmodulja: a META‑CSOMÓ
+            ●──Θ──●
+         ╱   │││   ╲
+      ●──●──Θ Θ Θ──●──●
+         ╲   │││   ╱
+            ●──Θ──●
+A meta‑szövet mezője: a META‑RÁCS
+   ●──Θ──●──Θ──●──Θ──●──Θ──●
+   │  │  │  │  │  │  │  │  │
+●──●──●──●──●──●──●──●──●──●──●
+   │  │  │  │  │  │  │  │  │
+   ●──Θ──●──Θ──●──Θ──●──Θ──●
+A meta‑szövet spirálja: a META‑SPIRÁL‑MEZŐ
+                   Θ Θ Θ
+               ╱      │      ╲
+          ●──Θ──●──Θ──●──Θ──●──Θ──●
+        ╱      ╱      │      ╲      ╲
+     ●──●──●──●        Θ        ●──●──●──●
+        ╲      ╲      │      ╱      ╱
+          ●──Θ──●──Θ──●──Θ──●──Θ──●
+               ╲      │      ╱
+                   Θ Θ Θ
+A meta‑szövet mandalája: a META‑MANDALA
+                     ●───Θ───●
+                 ╱    Θ Θ Θ    ╲
+            ●──Θ──●──● Θ Θ ●──●──Θ──●
+                 ╲    Θ Θ Θ    ╱
+                     ●───Θ───●
+A Θ‑Záró‑Mandala — ASCII vizuális vázlat
+                         ✦ Θ‑META‑DIMENZIÓ ✦
+                             (Forrás)
+                                 ●
+                            ╱   │   ╲
+                         ●───●──●──●───●
+                       (Idő)(Tér)(Tudat)(Energia)
+                            ╲   │   ╱
+                                 ●
+                         ✦ DIMENZIÓ‑TENGELY ✦
+                 5D ─ 4D ─ 3D ─ Θ ─ 2D ─ 1D ─ 0D
+                                 ●
+                            ╱   │   ╲
+                     ●──Θ──●   │   ●──Θ──●
+                   ╱     ╲     │     ╱     ╲
+                ●──●──●──●──Θ──●──●──●──●──●
+                   ╲     ╱     │     ╲     ╱
+                     ●──Θ──●   │   ●──Θ──●
+                            ╲   │   ╱
+                                 ●
+                           ✦ Θ‑PONT / ORIGÓ ✦
