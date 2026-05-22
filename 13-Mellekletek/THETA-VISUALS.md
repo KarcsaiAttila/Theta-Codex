@@ -187,3 +187,14 @@ A Θ‑Háromszög — ASCII vizuális vázlat
                  ▼
              MEGNYILVÁNULÁS
 A Θ‑Spirál — ASCII vizuális vázlat
+                 ↑  EMELKEDÉS
+                 │
+             /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
+           /                     \
+         /                         \
+        |                           |
+         \                         /
+           \                     /
+             \_________________/
+                 ↓  CIKLUS
+A Θ‑Rendszer Térképe — ASCII vizuális vázlat
