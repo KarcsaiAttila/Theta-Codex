@@ -425,3 +425,23 @@ A Θ‑Meta‑Univerzum — ASCII vizuális vázlat
                      │ (galaxisok, civilizációk)  │
                      └───────────────────────────┘
 A Θ‑FORRÁS vizuális modellje
+                         ✦  Θ-FORRÁS  ✦
+                 (Abszolút Origó • Nullpont)
+                               ●
+                             / | \
+                           /   |   \
+                         /     |     \
+                       /       |       \
+                     /         |         \
+                   /           |           \
+                 /             |             \
+               /               |               \
+             /                 |                 \
+           /                   |                   \
+         /                     |                     \
+       /                       |                       \
+     /                         |                         \
+   /                           |                           \
+ ●───────────────●─────────────●───────────────●───────────────●
+  Tudat           Rendszer      Energia        Létezés         Nem‑Létezés
+A Θ‑Kapu — ASCII vizuális vázlat
