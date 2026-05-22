@@ -333,3 +333,23 @@ A Θ‑Társadalom — ASCII vizuális vázlat
           │         (egyének, döntések, viselkedés)     │
           └────────────────────────────────────────────┘
 A Θ‑Civilizáció — ASCII vizuális vázlat
+                     ▲  FEJLŐDÉSI SPIRÁL
+                     │
+                 /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
+               /                       \
+             /                           \
+            |          Θ‑HEXA            |
+            |   (Civilizációs Pillérek)  |
+            |   • Tudat                  |
+            |   • Rendszer               |
+            |   • Energia                |
+            |   • Kultúra                |
+            |   • Technológia            |
+            |   • Gazdaság               |
+             \                           /
+               \                       /
+                 \___________________/
+                     │
+                     ▼
+               CIVILIZÁCIÓS ALAP
+A Θ‑Univerzum — ASCII vizuális vázlat
