@@ -693,3 +693,31 @@ A Θ‑Meta‑Spirál — ASCII vizuális vázlat
                      ✦ Θ-FORRÁS ✦
                (magasabb dimenzióban)
 A Θ‑Idő — ASCII vizuális vázlat
+                 LINEÁRIS IDŐ
+        ──────────────────────────────────▶ t
+
+                 CIKLIKUS IDŐ
+                ●───●───●───●───●
+                 ╲           ╱
+                  ╲         ╱
+                   ●──────●
+                  ╱         ╲
+                 ╱           ╲
+                ●───●───●───●───●
+
+                 SPIRÁLIS IDŐ
+                       ●
+                     ╱   ╲
+                   ●       ●
+                 ╱           ╲
+               ●               ●
+             ╱                   ╲
+           ●                       ●
+
+             META‑SPIRÁLIS IDŐ
+                   ●────●────●
+                 ╱      ╲      ╲
+               ●─────────●──────●
+             ╱            ╲        ╲
+           ●──────────────●────────●
+A Θ‑Tér — ASCII vizuális vázlat
