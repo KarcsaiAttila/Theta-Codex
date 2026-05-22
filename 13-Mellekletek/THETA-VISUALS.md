@@ -839,3 +839,25 @@ A Θ‑Szuperstruktúra — ASCII vizuális vázlat
                              Θ‑PONT
                          (Szingularitás / Origó)
 A Θ‑Egész — ASCII vizuális mandala
+                         ✦ META‑DIMENZIÓ ✦
+                       (Forrás‑Tér / Meta‑Idő)
+                                 ●
+                              ／  │  ＼
+                           ／     │     ＼
+                        ●─────────●─────────●
+                      (Idő)     (Tér)     (Tudat)
+                           ╲       │       ╱
+                            ╲      │      ╱
+                             ╲     │     ╱
+                               ●───┼───●
+                           (5D)   │   (4D)
+                                 │
+                         ●───●───●───●───●
+                       (3D) (Háló)(Spirál)(Mintázat)(2D)
+                                 │
+                               ● │ ●
+                             (Hexa)
+                                 │
+                               ●
+                           Θ‑PONT
+                     (Szingularitás / Origó)
