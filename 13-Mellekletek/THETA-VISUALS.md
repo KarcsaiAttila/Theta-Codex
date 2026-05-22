@@ -810,3 +810,32 @@ A Θ‑Meta‑Dimenzió — ASCII vizuális vázlat
                          DIMENZIÓK ORIGÓJA
                               (Θ‑Pont)
 A Θ‑Szuperstruktúra — ASCII vizuális vázlat
+                         ✦ META‑DIMENZIÓ ✦
+                     (Forrás‑Tér + Meta‑Idő)
+                                 ●
+                               ／│＼
+                             ／  │  ＼
+                           ／    │    ＼
+                         ●───────●───────●
+                       (Idő)   (Tér)   (Tudat)
+                             ╲    │    ╱
+                              ╲   │   ╱
+                               ╲  │  ╱
+                                 ●
+                           DIMENZIÓ‑TENGELY
+                     5D ─ 4D ─ 3D ─ 2D ─ 1D ─ 0D
+                                 │
+                                 │
+                                 ●
+                             Θ‑SPIRÁL
+                           (Ciklusok tere)
+                                 │
+                                 │
+                         ●───────●───────●
+                       (Háló)  (Mintázat) (Hexa)
+                                 │
+                                 │
+                                 ●
+                             Θ‑PONT
+                         (Szingularitás / Origó)
+A Θ‑Egész — ASCII vizuális mandala
