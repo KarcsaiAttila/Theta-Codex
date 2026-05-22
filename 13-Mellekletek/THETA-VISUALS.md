@@ -861,3 +861,4 @@ A Θ‑Egész — ASCII vizuális mandala
                                ●
                            Θ‑PONT
                      (Szingularitás / Origó)
+A Θ‑Mag — ASCII vizuális vázlat
