@@ -233,3 +233,23 @@ A Θ‑Rendszer Térképe — ASCII vizuális vázlat
                          │ (vizuális rendszer)   │
                          └───────────────────────┘
 A Θ‑Rendszer 3D Holografikus Modellje — ASCII vázlat
+                     ▲  TUDAT
+                     │
+                     │
+                /───────────\
+              /               \
+            /                   \
+           |         Θ           |
+            \                   /
+              \               /
+                \───────────/
+                     │
+                     │
+        ◄────────────┼────────────►
+        ENERGIA       │        RENDSZER
+                      │
+                      ▼
+               MEGNYILVÁNULÁS
+
+        (A teljes forma egy felfelé emelkedő spirális tetraéder)
+A Θ‑Operációs Ciklus — ASCII vizuális vázlat
