@@ -353,3 +353,48 @@ A Θ‑Civilizáció — ASCII vizuális vázlat
                      ▼
                CIVILIZÁCIÓS ALAP
 A Θ‑Univerzum — ASCII vizuális vázlat
+                         ✦  KOZMIKUS TUDAT  ✦
+                               (Forrás)
+                                   ▲
+                                   │
+                     ┌───────────────────────────┐
+                     │     UNIVERZÁLIS RENDSZER   │
+                     │   (törvények, struktúrák)  │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │     KOZMIKUS ENERGIA       │
+                     │   (mezők, hullámok, erők)  │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │       GALAXISOK            │
+                     │   (makrostruktúrák)        │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │      CIVILIZÁCIÓK          │
+                     │   (Θ‑Hexa + Spirál)        │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │        TÁRSADALMAK         │
+                     │   (mikro–meso–makro)       │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │          EMBEREK           │
+                     │     (Θ‑Ember modell)       │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │       Θ‑KÖR / ORIGÓ        │
+                     │   (a rendszer magja)       │
+                     └───────────────────────────┘
+A Θ‑Meta‑Univerzum — ASCII vizuális vázlat
