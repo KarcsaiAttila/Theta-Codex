@@ -177,3 +177,13 @@ A Θ‑Háromszintű Modell (vizuális vázlat)
                 │   └─────────────────────┘   │
                 └───────────────────────────┘
 A Θ‑Háromszög — ASCII vizuális vázlat
+                TUDAT
+                 ▲
+                 │
+                 │
+   ENERGIA ◄─────┼─────► RENDSZER
+                 │
+                 │
+                 ▼
+             MEGNYILVÁNULÁS
+A Θ‑Spirál — ASCII vizuális vázlat
