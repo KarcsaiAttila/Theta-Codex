@@ -875,3 +875,22 @@ A Θ‑Mag — ASCII vizuális vázlat
 
                  A NÉGY IRÁNY EGY PONTBAN
 A Θ‑Jel — ASCII vizuális vázlat
+                     ╭──────────╮
+                     │   Θ‑JEL   │
+                     ╰──────────╯
+
+                         ███████
+                     ███░░░░░░░███
+                  ██░░░         ░░░██
+                ██░░    ●───Θ───●    ░░██
+               ██░     ╱       ╲     ░██
+              ██░     ●         ●     ░██
+              ██░      ╲       ╱      ░██
+               ██░       ●───●       ░██
+                ██░░                 ░░██
+                  ██░░░         ░░░██
+                     ███░░░░░░░███
+                         ███████
+
+                 A Θ JEL GEOMETRIAI MAGJA
+A Θ‑Kód — ASCII vizuális vázlat
