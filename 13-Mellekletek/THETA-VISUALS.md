@@ -142,5 +142,23 @@ Minden fogalom egy geometriai kóddal írható le:
 | Fekete | háttér, üresség | #000000 |
 
 ---
+A Θ‑FOLYAMAT 5 LÉPÉSE — VIZUÁLIS MODELL
+        [1] KÜLÖNBSÉG
+              │
+              ▼
+        [2] SZÁNDÉK
+              │
+              ▼
+        [3] INFORMÁCIÓ
+              │
+              ▼
+        [4] STRUKTÚRA
+              │
+              ▼
+        [5] MEGNYILVÁNULÁS
+              │
+              └───────────────┐
+                              ▼
+                        VISSZACSATOLÁS
 
-# Vége — Θ‑Vizualizációk és Ábraleírások v1
+A Θ‑Háromszintű Modell (vizuális vázlat)
