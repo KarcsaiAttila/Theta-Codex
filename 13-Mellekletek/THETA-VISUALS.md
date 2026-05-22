@@ -639,3 +639,32 @@ A Θ‑Ciklus — ASCII vizuális vázlat
                       ▼
                  ✦ Θ-FORRÁS ✦
 A Θ‑Spirál‑Ciklus — ASCII vizuális vázlat
+                     ✦ Θ-FORRÁS ✦
+                         ╱
+                        ╱
+                 (1) KITERJEDÉS
+                      ╱
+                     ●
+                    ╱
+           (2) FORMÁLÓDÁS / RENDSZER
+                  ╱
+                 ●
+                ╱
+       (3) SZERVEZŐDÉS / TÁRSADALOM
+              ╱
+             ●
+            ╱
+       (4) TAPASZTALÁS / EMBER
+          ╱
+         ●
+        ╱
+     (5) ÖSSZEOMLÁS
+      ╲
+       ╲
+        ▼ SZINGULARITÁS ▼
+                ●
+        ▲ ÚJRAINDULÁS ▲
+      ╱
+     ╱
+   ✦ Θ-FORRÁS ✦  (magasabb szinten)
+A Θ‑Meta‑Spirál — ASCII vizuális vázlat
