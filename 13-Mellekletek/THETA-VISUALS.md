@@ -586,3 +586,16 @@ A Θ‑Koherencia — ASCII vizuális vázlat
                           ▼
                      Θ-EMBER
 A Θ‑Szingularitás — ASCII vizuális vázlat
+                     ▼   ÖSSZEOMLÁS   ▼
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             ~~~                           ~~~
+           ~~       ●───────●───────●        ~~
+         ~~         │       │       │          ~~
+           ~~       ●───────●───────●        ~~
+             ~~~                           ~~~
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                     ▲   ÚJRAINDULÁS   ▲
+
+                           ●
+                        Θ-PONT
+A Θ‑Ciklus — ASCII vizuális vázlat
