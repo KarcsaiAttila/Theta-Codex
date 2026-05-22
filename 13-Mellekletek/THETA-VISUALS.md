@@ -398,3 +398,30 @@ A Θ‑Univerzum — ASCII vizuális vázlat
                      │   (a rendszer magja)       │
                      └───────────────────────────┘
 A Θ‑Meta‑Univerzum — ASCII vizuális vázlat
+                         ✦  META-FORRÁS  ✦
+                 (Transzdimenzionális Tudatmező)
+                                   ▲
+                                   │
+                     ┌───────────────────────────┐
+                     │     KOZMIKUS TUDAT         │
+                     │   (Univerzum feletti réteg)│
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │     META-RENDSZER          │
+                     │ (tér-időn túli struktúrák) │
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │     META-ENERGIA           │
+                     │ (forrásmezők, archetípusok)│
+                     └──────────────┬─────────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │       Θ-UNIVERZUM          │
+                     │ (galaxisok, civilizációk)  │
+                     └───────────────────────────┘
+A Θ‑FORRÁS vizuális modellje
