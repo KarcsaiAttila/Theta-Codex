@@ -558,3 +558,12 @@ A Θ‑Mintázat — ASCII vizuális vázlat
                 \ /        \ /        \ /
                  ●──────────●──────────●
 A Θ‑Rezonancia — ASCII vizuális vázlat
+          ~~~~~~~   ~~~~~~~   ~~~~~~~   ~~~~~~~   ~~~~~~~
+        ~~       ~~~       ~~~       ~~~       ~~~       ~~
+      ~~   ●       ●       ●       ●       ●       ●       ~~
+        ~~       ~~~       ~~~       ~~~       ~~~       ~~
+          ~~~~~~~   ~~~~~~~   ~~~~~~~   ~~~~~~~   ~~~~~~~
+                     ▲       ▲       ▲       ▲
+                     │       │       │       │
+                 Θ-FORRÁS  Θ-UNIV. Θ-CIV. Θ-EMB.
+A Θ‑Koherencia — ASCII vizuális vázlat
