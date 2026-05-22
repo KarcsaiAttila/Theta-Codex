@@ -757,3 +757,38 @@ A Θ‑Tér — ASCII vizuális vázlat
         │            (Θ‑Pont)              │
         └──────────────────────────────────┘
 A Θ‑Dimenziók — ASCII vizuális vázlat
+                   ✦ DIMENZIÓS TENGELY ✦
+
+                         META‑D
+                     (Forrás‑Tér + Meta‑Idő)
+                             ●
+                             │
+                             │
+                           5D
+                     (Meta‑Tér / Fénymező)
+                             ●
+                             │
+                             │
+                           4D
+                     (Idővel kiterjesztett Tér)
+                             ●
+                             │
+                             │
+                           3D
+                     (Hexa‑Tér + Háló)
+                             ●
+                             │
+                             │
+                           2D
+                     (Rács + Mintázat)
+                             ●
+                             │
+                             │
+                           1D
+                     (Tengely / Vonal)
+                             ●
+                             │
+                             │
+                           0D
+                         (Θ‑Pont)
+A Θ‑Meta‑Dimenzió — ASCII vizuális vázlat
