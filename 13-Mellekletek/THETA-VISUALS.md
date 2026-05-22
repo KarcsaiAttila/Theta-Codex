@@ -162,3 +162,18 @@ A Θ‑FOLYAMAT 5 LÉPÉSE — VIZUÁLIS MODELL
                         VISSZACSATOLÁS
 
 A Θ‑Háromszintű Modell (vizuális vázlat)
+                ┌───────────────────────────┐
+                │         MAKRO SZINT        │
+                │   (civilizáció, kultúra)   │
+                │                             │
+                │   ┌─────────────────────┐   │
+                │   │      MESO SZINT     │   │
+                │   │ (csoport, rendszer) │   │
+                │   │                     │   │
+                │   │   ┌─────────────┐   │   │
+                │   │   │ MIKRO SZINT │   │   │
+                │   │   │ (egyén)     │   │   │
+                │   │   └─────────────┘   │   │
+                │   └─────────────────────┘   │
+                └───────────────────────────┘
+A Θ‑Háromszög — ASCII vizuális vázlat
