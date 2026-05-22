@@ -253,3 +253,35 @@ A Θ‑Rendszer 3D Holografikus Modellje — ASCII vázlat
 
         (A teljes forma egy felfelé emelkedő spirális tetraéder)
 A Θ‑Operációs Ciklus — ASCII vizuális vázlat
+          ┌───────────────┐
+          │   KÜLÖNBSÉG   │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │    SZÁNDÉK    │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │  INFORMÁCIÓ   │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │   STRUKTÚRA   │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │ MEGNYILVÁNULÁS│
+          └───────┬───────┘
+                  │
+                  ▼
+        ┌───────────────────────┐
+        │   VISSZACSATOLÁS      │
+        └───────────┬───────────┘
+                    │
+                    ▼
+          (új KÜLÖNBSÉG)
+A Θ‑Ember — ASCII vizuális vázlat
