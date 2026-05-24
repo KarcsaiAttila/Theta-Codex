@@ -1,0 +1,65 @@
+──────────────────────────────────────────────────────────────
+Θ‑ELMÉLET — ZÁRÓKŐ (SZAKMAI VERZIÓ)
+A Lagrange‑formalizmus univerzalitásának Θ‑alapú magyarázata
+──────────────────────────────────────────────────────────────
+
+1. A Θ‑mező definíciója variációs szerkezetet kényszerít ki
+
+A Θ‑mező alapdefiníciója:
+    Θ(s,x) = k(s) ∂E(s,x)/∂x
+
+Ez derivált‑alapú energiakonfigurációt definiál, amely szükségszerűen
+variációs struktúrát hoz létre. A Θ‑mező csak differenciálható,
+variálható, minimális hatáselvnek alárendelt dinamikával kompatibilis.
+
+
+2. A Θ‑dinamika = Euler–Lagrange egyenlet
+
+A Θ‑mező egyenlete:
+    ∂μ∂μΘ + dV/dΘ = 0
+
+Ez pontosan az Euler–Lagrange egyenlet alakja:
+    ∂μ(∂L/∂(∂μΘ)) − ∂L/∂Θ = 0
+
+A Θ‑mező Lagrange‑sűrűsége:
+    L = 1/2 (∂μΘ)(∂μΘ) − V(Θ)
+
+A Θ‑mező tehát nem választhatóan, hanem szükségszerűen
+Lagrange‑formalizmusban írható le.
+
+
+3. A minimális hatáselv = a Θ‑mező stabilitási feltétele
+
+A stabil pontok:
+    dV/dΘ = 0
+
+Ez megegyezik a minimális hatáselvvel:
+    δS = δ ∫ L d⁴x = 0
+
+A minimális hatáselv tehát a Θ‑mező stabilitási feltétele,
+nem külön fizikai axióma.
+
+
+4. A Lagrange‑formalizmus univerzalitása a Θ‑mező univerzalitásából következik
+
+A Θ‑mező:
+    – skálafüggő
+    – derivált‑alapú
+    – fázisstruktúrákat tartalmaz
+    – potenciálminimumokat keres
+    – stabilitási feltételeket kényszerít ki
+
+Ezért minden fizikai rendszer (klasszikus, kvantum, relativisztikus,
+mezőelméleti, biológiai, kémiai) variációs elv szerint működik:
+mind a Θ‑mező különböző skálájú fázisai.
+
+
+──────────────────────────────────────────────────────────────
+TÉTEL (ZÁRÓKŐ)
+
+A Lagrange‑formalizmus univerzalitása abból következik, hogy a Θ‑mező
+derivált‑alapú energiakonfiguráció, amelynek dinamikája szükségszerűen
+Euler–Lagrange típusú. A minimális hatáselv a Θ‑mező stabilitási
+feltétele, ezért minden Θ‑fázisban létező fizikai rendszer variációs
+elv szerint működik.
+──────────────────────────────────────────────────────────────
