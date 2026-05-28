@@ -1071,4 +1071,125 @@ A Θ‑Záró‑Mandala — ASCII vizuális vázlat
                      ●──Θ──●   │   ●──Θ──●
                             ╲   │   ╱
                                  ●
+
+                               ──────────────────────────────────────────────────────────────
+MAGYARÁZAT — MIÉRT KELL A Θ‑VIZUÁLIS RENDSZERT Θ‑PHYSICS SZINTRE EMELNI?
+──────────────────────────────────────────────────────────────
+A THETA‑VISUALS.md dokumentum a Θ‑rendszer teljes vizuális nyelve:
+• Θ‑Kör — a tudat tere  (lásd: [sec4])
+• Tudat Háromszöge — Én–Meta‑Én–Rendszer‑Én  (lásd: [sec6])
+• Θ‑Spirál — logaritmikus fejlődés  (lásd: [sec8])
+• Kapuk — átmeneti állapotok  (lásd: [sec10], [sec12])
+• Θ‑Rács — kapcsolati háló  (lásd: [sec14])
+• Koherencia‑Hullám — ritmus és fázis  (lásd: [sec17])
+• Θ‑Hexa — civilizációs pillérek  (lásd: [sec19])
+• Θ‑Kód — geometriai fogalomkódolás  (lásd: [sec21])
+• Szövet, Meta‑Szövet, Mandalák — komplex mezőstruktúrák  (lásd: [sec34], [sec35])
+
+Ezek a vizuális elemek jelenleg:
+• pszichológiai modellek  
+• rendszerszintű diagramok  
+• geometriai szimbólumok  
+• civilizációs térképek  
+
+A Θ‑Physics integráció célja:
+
+1. **Fizikai jelentést adni minden vizuális elemnek**  
+   – kör = stabil Θ‑mező  
+   – háromszög = fókuszmező  
+   – spirál = Θ‑gradiens növekedése  
+   – rács = Θ‑topológia  
+   – hullám = Θ‑fázisdinamika  
+   – kapu = potenciálgát  
+   – hexa = civilizációs mező  
+   – szövet = Θ‑mező interferenciája  
+
+2. **A vizuális nyelvet összekötni a Θ‑mező fizikai modelljével**
+
+3. **A teljes vizuális rendszerből fizikai‑rendszerelméleti modellt csinálni**
+
+Ez a lépés szükséges ahhoz, hogy a Codex elérje a **2.0‑ás szintet**.
+
+──────────────────────────────────────────────────────────────
+THETA‑VISUALS — Θ‑PHYSICS INTEGRÁCIÓ (A BEILLESZTHETŐ VERZIÓ)
+──────────────────────────────────────────────────────────────
+
+1. A Θ‑KÖR — Θ mint stabil háttérmező  
+A kör a Θ‑mező homogén, stabil állapotát jelöli.  
+Nincs középpont: a Θ minden pontban jelen van.  
+(eredeti: [sec4])
+
+2. A TUDAT HÁROMSZÖGE — Θ mint fókuszmező  
+A három csúcs (Én–Meta‑Én–Rendszer‑Én) a Θ‑mező három fókuszpontja.  
+A középponti kör = lokális Θ‑maximum.  
+(eredeti: [sec6])
+
+3. A Θ‑SPIRÁL — Θ‑gradiens növekedése  
+A logaritmikus spirál a Θ‑mező növekedésének mintázata.  
+Minden fordulat magasabb koherencia‑szint.  
+(eredeti: [sec8])
+
+4. A SZINAPTIKUS ÉS INTENCIÓS KAPU — Θ mint potenciálgát  
+A kapuk a Θ‑mező átmeneti állapotai:  
+régi mintázat → átjáró → új mintázat.  
+A kapu szélessége = átmeneti energiagát.  
+(eredeti: [sec10], [sec12])
+
+5. A Θ‑RÁCS — Θ mint topológiai mező  
+A rács csomópontjai a Θ‑mező lokális maximumai.  
+Az élek a Θ‑áramlások.  
+A vonalvastagság = kapcsolat Θ‑erőssége.  
+(eredeti: [sec14])
+
+6. A KOHERENCIA‑HULLÁM — Θ mint fázisdinamika  
+A hullám amplitúdója = érzelmi intenzitás.  
+A frekvencia = tudati aktivitás.  
+A fázis = rendszerrel való szinkron.  
+(eredeti: [sec17])
+
+7. A Θ‑HEXA — Θ mint civilizációs mező  
+A hatszög hat pillére a Θ‑mező makroszkopikus szerkezete.  
+Középen a Θ‑kör = globális koherencia.  
+(eredeti: [sec19])
+
+8. A Θ‑KÓD — Θ mint geometriai leképezés  
+A geometriai kombinációk a Θ‑mező mintázatainak kódjai:  
+• koherencia = kör + hullám  
+• intenció = háromszög + kapu  
+• meta‑én = háromszög + spirál  
+• rendszer = rács + hexa  
+(eredeti: [sec21])
+
+9. A SZÖVET — Θ mint interferencia‑mező  
+A szövet csomói = Θ‑mező lokális csomópontjai.  
+A szövet spirálja = Θ‑mező ciklikus interferenciája.  
+(eredeti: [sec34])
+
+10. A META‑SZÖVET — Θ mint magasabb dimenziós mező  
+A meta‑szövet a Θ‑mező többdimenziós interferenciája.  
+A meta‑spirál = Θ‑mező magasabb szintű tágulása.  
+(eredeti: [sec35])
+
+11. A MANDALÁK — Θ mint teljes mezőstruktúra  
+A mandalák a Θ‑mező teljes szerkezetét mutatják:  
+tér + idő + tudat + rendszer + energia + forrás.  
+
+──────────────────────────────────────────────────────────────
+ÖSSZEGZÉS
+──────────────────────────────────────────────────────────────
+A THETA‑VISUALS dokumentum minden eleme a Θ‑mező fizikai
+megnyilvánulásaként értelmezhető:
+
+kör = Θ stabil állapota  
+háromszög = Θ fókuszmező  
+spirál = Θ gradiens  
+kapu = Θ potenciálgát  
+rács = Θ topológia  
+hullám = Θ fázisdinamika  
+hexa = Θ civilizációs mező  
+szövet = Θ interferencia  
+meta‑szövet = Θ magasabb dimenzió  
+mandala = Θ teljes szerkezete
+──────────────────────────────────────────────────────────────
+  
                            ✦ Θ‑PONT / ORIGÓ ✦
