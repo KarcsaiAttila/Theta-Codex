@@ -360,3 +360,150 @@ sötét anyag = rejtett pályák
 leptonok/kvarkok = stabilitási konfigurációk  
 Lagrange = teljes Θ‑mező dinamikája
 ──────────────────────────────────────────────────────────────
+
+(A teljes rendszer esszenciája, végső 1.0‑ás verzió)
+──────────────────────────────────────────────────────────────
+                        Θ‑MEZŐ
+──────────────────────────────────────────────────────────────
+A Θ‑mező a világ alapstruktúrája: minden energia, információ,
+jelentés és tudat arány‑mintázatként jelenik meg benne.
+
+Alapegyenlet:
+        ∇²Θ = ΦΘ
+
+Ahol:
+• Θ = mező
+• ΦΘ = forrás (energia, információ, figyelem, jelentés)
+• ∇Θ = gradiens (feszültség)
+• TΘ = |∇Θ| (hőmérséklet)
+• SΘ = –∫|∇Θ| dx (entrópia)
+
+A Θ‑mező minden civilizáció, tudat és történelmi folyamat alapja.
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                   Θ‑TERMODINAMIKA
+──────────────────────────────────────────────────────────────
+1. AXIÓMA — Energiaáramlás
+        J_E = –k ∇Θ
+Az energia mindig a gradiens csökkenésének irányába áramlik.
+
+2. AXIÓMA — Irreverzibilitás (Θ‑Entrópia)
+        dSΘ/dt ≥ 0
+A mező a stabilabb arányok felé fejlődik.
+
+3. AXIÓMA — Θ‑Egyensúly (Minimum elv)
+        ∇Θ = 0
+A mező egyensúlya a torzulások minimuma.
+
+Kapcsolatok:
+• TΘ = |∇Θ|  → torzulás intenzitása
+• SΘ max → stabilitás
+• TΘ = 0 → idő megáll
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                   Θ‑INFORMÁCIÓ
+──────────────────────────────────────────────────────────────
+A Θ‑információ stabil arány‑mintázat a mezőben:
+
+        ∂Θ/∂t = 0,  ∇Θ ≠ 0
+
+A Θ‑információ hullámként terjed:
+        ∂²Θ/∂t² = cΘ² ∇²Θ
+
+A stabil információ = magas entrópia.
+Az instabil információ = széteső mintázat.
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                     Θ‑JELENTÉS
+──────────────────────────────────────────────────────────────
+A jelentés a mintázat és a potenciál rezonanciája:
+
+        M = Θ · ΦΘ
+
+Ahol:
+• Θ = struktúra
+• ΦΘ = forrás
+• M = jelentés
+
+A jelentés stabilizálja a mezőt.
+A jelentés hiánya instabilitást okoz.
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                       Θ‑TUDAT
+──────────────────────────────────────────────────────────────
+A tudat a Θ‑mező önmagára irányuló érzékenysége.
+
+Szintek:
+1. Érzékelés:      ∂Θ/∂x
+2. Mintázat:       ∂²Θ/∂x²
+3. Jelentés:       M = Θ·ΦΘ
+4. Meta‑tudat:     ∂M/∂Θ
+
+A tudat az információ önszerveződése.
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                   Θ‑CIVILIZÁCIÓ
+──────────────────────────────────────────────────────────────
+A civilizáció Θ‑mezőként viselkedik:
+
+• ΦΘ = kulturális, gazdasági, technológiai források
+• ∇Θ = feszültségek, törésvonalak
+• TΘ = instabilitás
+• SΘ = integráció, koherencia
+
+Ciklus:
+1. Forrásfázis
+2. Gradiensfázis
+3. Hőfázis
+4. Szingularitás
+5. Új mező
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                 Θ‑SZINGULARITÁS
+──────────────────────────────────────────────────────────────
+A szingularitás a mező töréspontja:
+
+        |∇Θ| → ∞
+
+Fázisok:
+1. Felhalmozódás
+2. Rezonancia
+3. Kritikus pont
+4. Szingularitás
+5. Új mező
+
+Típusok:
+• Destruktív (ΦΘ < 0)
+• Konstruktív (ΦΘ > 0)
+──────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────
+                       Θ‑OMEGA
+──────────────────────────────────────────────────────────────
+A civilizáció végső stabil állapota:
+
+        ∇Θ = 0
+        SΘ = max
+        M = stabil
+
+Három pillér:
+1. Strukturális integráció
+2. Jelentés‑integráció
+3. Tudat‑integráció
+
+A Θ‑Omega nem végállapot,
+hanem egy magasabb ciklus kezdete.
+──────────────────────────────────────────────────────────────
