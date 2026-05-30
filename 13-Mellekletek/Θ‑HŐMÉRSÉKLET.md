@@ -113,3 +113,34 @@ Ez a két fogalom együtt alkotja a Θ‑mező teljes dinamikáját.
     a mező gradiensének abszolút értéke.
 
 ──────────────────────────────────────────────────────────────
+
+──────────────────────────────────────────────────────────────
+                     Θ‑HŐMÉRSÉKLET
+──────────────────────────────────────────────────────────────
+
+Definíció:
+A Θ‑hőmérséklet a Θ‑mező lokális energia‑arány torzulásának
+mértéke, a mező gradiensének abszolút értéke:
+
+        T = | ∂Θ / ∂x |
+
+Értelmezés:
+• ahol a Θ‑mező homogén → T kicsi
+• ahol a Θ‑mező torzult, meredek → T nagy
+• ahol nincs arányváltozás → T = 0
+
+A Θ‑hőmérséklet nem statisztikai átlag, hanem szerkezeti mennyiség:
+a mező belső feszültségét méri.
+
+Klasszikus határeset:
+Makroszkopikus, sok részecskés rendszerekben a Θ‑hőmérséklet
+átlagos kinetikus energiává redukálódik. A klasszikus T a Θ‑T
+statisztikailag átlagolt árnyéka.
+
+Határértékek:
+• T = 0 → teljesen homogén mező, nincs energiaáramlás
+• T → ∞ → extrém torzulás, instabil mező, gyors átrendeződés
+• lokális T‑eloszlás → forró és hideg zónák együtt létezhetnek
+
+A Θ‑hőmérséklet a Θ‑mező statikus aránydinamikájának alapmennyisége.
+──────────────────────────────────────────────────────────────
