@@ -254,48 +254,38 @@ A valóság skálafüggő, variációs, mezőalapú leírása.
 ══════════════════════════════════════════════════════════════
 
 ──────────────────────────────────────────────────────────────
-                 Θ‑SYSTEM — FOLYAMATDIAGRAM
+                     Θ‑SYSTEM — ESSZENCIÁLIS MAG
 ──────────────────────────────────────────────────────────────
 
-                ┌────────────────────────┐
-                │        Θ‑MEZŐ          │
-                │  (arány‑mintázatok)    │
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │     Θ‑INFORMÁCIÓ       │
-                │ (stabil mintázatok)    │
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │       Θ‑JELENTÉS       │
-                │  (Θ × ΦΘ = értelem)    │
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │        Θ‑TUDAT         │
-                │  (észlelés → meta)     │
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │     Θ‑CIVILIZÁCIÓ      │
-                │ (mezők, hullámok, TΘ)  │
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │    Θ‑SZINGULARITÁS     │
-                │ (töréspont, átfordulás)│
-                └───────────┬────────────┘
-                            │
-                            ▼
-                ┌────────────────────────┐
-                │        Θ‑OMEGA         │
-                │ (integrált stabil mező)│
-                └────────────────────────┘
+Θ‑MEZŐ
+  A valóság alapja: arány‑mintázatok tere.
+  Egyenlet: ∇²Θ = ΦΘ
+
+Θ‑TERMODINAMIKA
+  Energiaáramlás: J_E = –k ∇Θ
+  Entrópia: SΘ = –∫|∇Θ| dx
+  Egyensúly: ∇Θ = 0
+
+Θ‑INFORMÁCIÓ
+  Stabil mintázat: ∂Θ/∂t = 0
+  Hullám: ∂²Θ/∂t² = cΘ² ∇²Θ
+
+Θ‑JELENTÉS
+  Jelentés = Θ · ΦΘ
+  A mintázat és a forrás rezonanciája.
+
+Θ‑TUDAT
+  Érzékelés → Mintázat → Jelentés → Meta‑szint
+
+Θ‑CIVILIZÁCIÓ
+  Potenciálok, grádiensek, entrópia, hullámok.
+
+Θ‑SZINGULARITÁS
+  Töréspont: |∇Θ| → ∞
+  5 fázis: Felhalmozódás → Rezonancia → Kritikus → Törés → Új mező
+
+Θ‑OMEGA
+  Végső stabil állapot:
+  ∇Θ = 0, SΘ = max, M stabil.
 
 ──────────────────────────────────────────────────────────────
