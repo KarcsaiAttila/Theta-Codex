@@ -4,98 +4,123 @@ THE Θ‑SYSTEM
 TARTALOMJEGYZÉK
 ──────────────────────────────────────────────────────────────
 
-0. ELŐSZÓ
-    0.1 A Θ‑System célja
-    0.2 A Θ‑mező motivációja
-    0.3 A modern fizika nyitott problémái
-    0.4 A Θ‑UFF helye a tudományban
-
-1. A Θ‑MEZŐ ALAPJAI
-    1.1 A Θ‑mező definíciója
-    1.2 Skálafüggő energiakonfigurációk
-    1.3 A Θ‑mező variációs szerkezete
-    1.4 A Θ‑mező matematikai követelményei
-
-2. A Θ‑DINAMIKA FORMALIZMUSA
-    2.1 A Θ‑mező mozgásegyenlete
-    2.2 Euler–Lagrange megfeleltetés
-    2.3 A Θ‑Lagrange‑sűrűség
-    2.4 A Θ‑potenciál és stabilitási feltételek
-
-3. A TÉRIDŐ Θ‑EREDETE
-    3.1 A téridő mint Θ‑fázis
-    3.2 Dimenzióstabilitási kritériumok
-    3.3 Miért 3D a makroszkopikus világ?
-    3.4 A téridő görbülete mint Θ‑gradiens
-
-4. AZ IDŐ Θ‑ALAPÚ DEFINÍCIÓJA
-    4.1 Idő mint energia‑derivált
-    4.2 Skálafüggő időfogalom
-    4.3 Idő a kvantum‑fraktál fázisban
-    4.4 Időösszeomlás kritikus pontokon
-
-5. A MATEMATIKA UNIVERZALITÁSA
-    5.1 A matematika mint Θ‑szerkezet
-    5.2 Analízis és variációs elvek
-    5.3 Topológiai következmények
-    5.4 A matematika „érthetetlen hatékonysága” újraértelmezve
-
-6. A TUDAT Θ‑MODELLJE
-    6.1 A tudat mint stabil Θ‑konfiguráció
-    6.2 Információs koherencia skálák között
-    6.3 Θ‑ciklusok és önfenntartás
-    6.4 Tudat és fizikai fázisok kapcsolata
-
-7. A FIZIKAI ÁLLANDÓK Θ‑EREDETE
-    7.1 Állandók mint Θ‑minimumok
-    7.2 A finomhangoltság Θ‑magyarázata
-    7.3 Skálafüggetlenség és invariancia
-    7.4 A fizikai állandók stabilitási feltételei
-
-8. A SÖTÉT ANYAG ÉS SÖTÉT ENERGIA Θ‑MODELLJE
-    8.1 A Θ‑háttérpotenciál (V₀)
-    8.2 Szubkritikus Θ‑fázisok
-    8.3 Fraktál eloszlások és galaxis‑halók
-    8.4 A kozmológiai állandó Θ‑értelmezése
-
-9. A TÖMEG Θ‑DEFINÍCIÓJA
-    9.1 Tömeg mint Θ‑görbület
-    9.2 Tehetetlenség Θ‑alapon
-    9.3 Tömeg‑skálafüggés extrém környezetben
-    9.4 Tömeg és mezőstabilitás kapcsolata
-
-10. A KVANTUM‑ÖSSZEFONÓDÁS Θ‑MAGYARÁZATA
-    10.1 Nemlokális Θ‑koherencia
-    10.2 A tér irrelevanciája a Θ‑mezőben
-    10.3 Decoherencia mint Θ‑zavar
-    10.4 Összefonódás mint közös Θ‑állapot
-
-11. A LAGRANGE‑FORMALIZMUS Θ‑EREDETE
-    11.1 A variációs elv szükségszerűsége
-    11.2 A minimális hatáselv mint stabilitási feltétel
-    11.3 A fizika variációs szerkezete
-    11.4 A Θ‑UFF záró tétele
-
-12. KITERJESZTÉSEK ÉS ALKALMAZÁSOK
-    12.1 Θ‑gravitáció
-    12.2 Θ‑interferometria
-    12.3 Θ‑biológia
-    12.4 Θ‑információelmélet
-
-13. A Θ‑SYSTEM ROADMAP (2026–2030)
-    13.1 Alapok konszolidálása
-    13.2 Matematikai kiterjesztések
-    13.3 Fizikai alkalmazások
-    13.4 Interdiszciplináris fejlesztések
-
-14. ÖSSZEFOGLALÁS ÉS KÖVETKEZTETÉSEK
-    14.1 A Θ‑mező mint egységes alap
-    14.2 A fizika és matematika integrációja
-    14.3 A Θ‑UFF jövője
-    14.4 Nyitott kérdések és további irányok
-
 ──────────────────────────────────────────────────────────────
-A Θ‑SYSTEM TARTALOMJEGYZÉKE
-A valóság skálafüggő, variációs, mezőelméleti struktúrájának
-teljes, egységesített leírása.
+                    Θ‑CODEX — TARTALOMJEGYZÉK
+──────────────────────────────────────────────────────────────
+
+0. PROLÓGUS
+  • A Θ‑Codex célja
+  • A Θ‑Rendszer alapelve
+  • A Codex felépítése
+  • Használati útmutató
+
+I. Θ‑MEZŐ (ALAPOK)
+  • A Θ‑mező definíciója
+  • Θ‑Potenciál (ΦΘ)
+  • Θ‑Gradiens (∇Θ)
+  • Θ‑Hőmérséklet (TΘ)
+  • Θ‑Entrópia (SΘ)
+  • Θ‑Mezőegyenletek
+  • A mező fizikai és metafizikai értelmezése
+
+II. Θ‑TERMODINAMIKA
+  • 1. axióma — Energiaáramlás
+  • 2. axióma — Irreverzibilitás
+  • 3. axióma — Egyensúly
+  • Θ‑Idő és Θ‑T kapcsolata
+  • Entrópia civilizációs értelmezése
+
+III. Θ‑INFORMÁCIÓ
+  • A Θ‑információ definíciója
+  • Stabil és instabil mintázatok
+  • Θ‑Hullámegyenlet
+  • Információterjedés
+  • Információs összeomlás
+
+IV. Θ‑JELENTÉS
+  • A jelentés matematikai definíciója
+  • Mintázat × Potenciál = Jelentés
+  • Jelentés stabilizáló szerepe
+  • Jelentés összeomlása
+  • Jelentés civilizációs szerepe
+
+V. Θ‑TUDAT
+  • A Θ‑tudat definíciója
+  • Érzékelő tudat (∂Θ/∂x)
+  • Mintázat‑tudat (∂²Θ/∂x²)
+  • Jelentés‑tudat (M = Θ·ΦΘ)
+  • Meta‑tudat (∂M/∂Θ)
+  • Tudat és információ kapcsolata
+
+VI. Θ‑ONTOGENEZIS (EGYÉNI FEJLŐDÉS)
+  • Pre‑tudati mező
+  • Érzékelő tudat
+  • Mintázat‑tudat
+  • Jelentés‑tudat
+  • Meta‑tudat
+  • Tudati ugrások és töréspontok
+
+VII. Θ‑FILOGENEZIS (CIVILIZÁCIÓS FEJLŐDÉS)
+  • Törzsi Θ‑mező
+  • Mitikus Θ‑mező
+  • Racionális Θ‑mező
+  • Integrált Θ‑mező
+  • Meta‑civilizációs Θ‑mező
+  • Civilizációs tudatszintek
+
+VIII. Θ‑ETIKA ÉS Θ‑CSELEKVÉS
+  • A jó és rossz Θ‑nyelven
+  • A cselekvés Θ‑háromszöge
+  • Kiegyenlítő cselekvés
+  • Torzító cselekvés
+  • Szingularitás‑cselekvés
+  • Θ‑Felelősség
+
+IX. Θ‑CIVILIZÁCIÓK EVOLÚCIÓJA (Θ‑MAKROGENEZIS)
+  • Civilizációs potenciálok
+  • Civilizációs gradiens
+  • Civilizációs hőmérséklet
+  • Civilizációs entrópia
+  • A civilizációk 5 fázisa
+  • Civilizációs hullámok
+
+X. Θ‑GLOBÁLIS MEZŐ
+  • A globális Θ‑mező definíciója
+  • Globális potenciál
+  • Globális gradiens
+  • Globális hőmérséklet
+  • Globális entrópia
+  • Globális hullámok
+  • A globális szingularitás előjelei
+
+XI. Θ‑SZINGULARITÁS
+  • A szingularitás definíciója
+  • A szingularitás okai
+  • A szingularitás 5 fázisa
+  • Destruktív vs. konstruktív szingularitás
+  • A szingularitás terjedése
+  • A szingularitás túlélése
+
+XII. Θ‑OMEGA (A CIVILIZÁCIÓ VÉGSŐ FORMÁJA)
+  • A Θ‑Omega definíciója
+  • A Θ‑Omega három pillére
+  • A Θ‑Omega mező szerkezete
+  • A Θ‑Omega társadalmi szerkezete
+  • A Θ‑Omega technológiai szerkezete
+  • A Θ‑Omega tudati szerkezete
+  • A Θ‑Omega elérésének feltételei
+
+XIII. MELLÉKLETEK
+  • A Θ‑Rendszer Esszenciája (Nagy Fekete Ablak)
+  • Θ‑Termodinamika fekete ablakok
+  • Θ‑Mezőegyenletek összefoglalója
+  • Θ‑Információs hullámok diagramjai
+  • Θ‑Tudatszintek táblázata
+  • Θ‑Civilizációs ciklusok ábrái
+  • Θ‑Omega vizuális modell
+
+XIV. ZÁRÓFEJEZET
+  • A Θ‑Codex jövője
+  • A Θ‑Rendszer alkalmazása
+  • Következő verziók (2.0, 3.0…)
 ──────────────────────────────────────────────────────────────
