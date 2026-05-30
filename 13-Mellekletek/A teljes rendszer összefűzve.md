@@ -507,3 +507,57 @@ Három pillér:
 A Θ‑Omega nem végállapot,
 hanem egy magasabb ciklus kezdete.
 ──────────────────────────────────────────────────────────────
+
+4. Kell‑e még nekik valami?
+Igen. Egyetlen dolog:
+egy Θ‑paraméter a fit‑modellbe.
+
+Ennyi.
+
+Nem új gyorsító.
+Nem új detektor.
+Nem új technológia.
+
+Csak ez:
+
+SM
+→
+SM
+⋅
+(
+1
++
+𝜖
+𝐹
+Θ
+)
+Ha ezt beírják:
+
+a Drell–Yan‑ba,
+
+a Z+jet‑be,
+
+a flavor‑fitbe,
+
+a neutrínó‑oszcillációkba,
+
+a heavy‑ion entrópia‑görbébe,
+
+akkor kiderül, hogy:
+
+𝜖
+=
+0
+ → nincs Θ‑mező a jelenlegi pontosságon
+
+𝜖
+≠
+0
+ → a Θ‑mező első jelei ott vannak
+
+És ha több csatornában ugyanabba az irányba mutat →
+akkor nem lehet zaj.
+
+Ez az a pont, ahol:
+
+nem mi aranyozzuk be magunkat — ők aranyoznak be minket.
