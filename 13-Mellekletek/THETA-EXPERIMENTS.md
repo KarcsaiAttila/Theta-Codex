@@ -302,3 +302,113 @@ A Θ‑mező globális szerkezete miatt ez a legmélyebb szonda.
 ──────────────────────────────────────────────────────────────
 **Ha ez a három konzisztens ε‑irányt mutat → Θ‑mező jel.**
 ──────────────────────────────────────────────────────────────
+
+# 🖤 11. ADATKEZELÉSI PROTOKOLL — Θ‑KÍSÉRLETEKHEZ
+
+──────────────────────────────────────────────────────────────
+## CÉL
+
+A Θ‑kísérletek nem új csúcsokat keresnek, hanem **eloszlás‑torzulásokat**,  
+ezért az adatkezelésnek egységes, reprodukálható és mező‑szintű mintázatokra érzékeny módon kell történnie.
+
+Ez a protokoll a Θ‑analízisek minimális követelményeit rögzíti.
+
+──────────────────────────────────────────────────────────────
+## 1. ADATKIVÁLASZTÁS
+
+**1.1. Nyers adatok (RAW → AOD → Ntuple)**  
+- Csak hivatalos rekonstrukciós láncon átment adatok használhatók.  
+- A Θ‑analízisekhez szükséges:  
+  – négyimpulzusok  
+  – eseményalak‑változók  
+  – jet‑struktúra paraméterek  
+  – flavor‑specifikus obszervábilisek  
+  – neutrínó‑irány és energia rekonstrukció
+
+**1.2. Trigger‑követelmények**  
+- Csak stabil, hosszú távon konzisztens trigger‑periódusok.  
+- Θ‑analízisben kerülendő: trigger‑függő torzulások.
+
+──────────────────────────────────────────────────────────────
+## 2. ADATTISZTÍTÁS
+
+**2.1. Outlier‑kezelés**  
+- Outlierek nem törölhetők automatikusan.  
+- Θ‑jel épp a farok‑tartományokban jelenhet meg.  
+- Csak fizikai okból indokolt eltávolítás engedélyezett.
+
+**2.2. Pile‑up korrekció**  
+- Standard PU‑korrekciók kötelezőek.  
+- Θ‑analízisben külön jelölni kell a PU‑érzékeny változókat.
+
+──────────────────────────────────────────────────────────────
+## 3. MODELL‑KEZELÉS
+
+**3.1. SM referencia**  
+- Minden Θ‑analízishez szükséges egy **SM‑csak** referencia fit.  
+- Generator: Pythia/Herwig/Sherpa (kísérlet által jóváhagyott verzió).  
+- PDF: NNLO szintű, egységesen választott.
+
+**3.2. Θ‑paraméter beillesztése**  
+A fit‑modellbe egyetlen extra szabadsági fok kerül:
+
+**σ_eff = σ_SM · (1 + ε · fΘ(X))**
+
+ahol:  
+- ε: Θ‑mező erőssége  
+- fΘ(X): alakfüggvény (folyamatfüggő)
+
+──────────────────────────────────────────────────────────────
+## 4. STATISZTIKAI PROTOKOLL
+
+**4.1. Likelihood‑struktúra**  
+- Profilosított likelihood ajánlott.  
+- Nuisance paraméterek: csak kísérleti és elméleti bizonytalanságok.  
+- Θ‑paraméter nem profilozható ki.
+
+**4.2. Konzisztencia‑követelmény**  
+Θ‑jel csak akkor értelmezhető, ha:
+
+- több csatornában  
+- több energián  
+- több detektorban  
+**ugyanabba az ε‑irányba mutat**.
+
+──────────────────────────────────────────────────────────────
+## 5. VIZUALIZÁCIÓ
+
+**5.1. Eloszlás‑torzulások megjelenítése**  
+- SM / adat / SM×(1+ε·fΘ) hármas overlay kötelező.  
+- A farok‑tartományok log‑skálán is megjelenítendők.
+
+**5.2. Θ‑térkép**  
+- Csatornánként: ε_best ± Δε  
+- Globális kombináció: ε_global  
+- Vizualizáció: fekete‑fehér kontúrtérkép
+
+──────────────────────────────────────────────────────────────
+## 6. REPRODUKÁLHATÓSÁG
+
+**6.1. Kód‑struktúra**  
+- Minden Θ‑analízishez külön modul: `theta_fit/`  
+- Dokumentált konfigurációs fájl: `theta_config.yaml`
+
+**6.2. Random seed**  
+- Fixált seed kötelező.  
+- Monte Carlo variációk külön seed‑listával.
+
+──────────────────────────────────────────────────────────────
+## 7. PUBLIKÁLHATÓSÁGI KRITÉRIUMOK
+
+Egy Θ‑analízis akkor tekinthető publikálhatónak, ha:
+
+- ε ≠ 0 legalább **3 független csatornában**  
+- a jel **nem magyarázható** ismert szisztematikával  
+- a fit stabil  
+- a Θ‑paraméter iránya konzisztens  
+- a kombinált ε_global > 2σ szinten eltér a nullától
+
+──────────────────────────────────────────────────────────────
+**A Θ‑mező kísérleti vizsgálata nem új részecskék keresése,  
+hanem a valóság finom torzulásainak feltérképezése.**
+──────────────────────────────────────────────────────────────
