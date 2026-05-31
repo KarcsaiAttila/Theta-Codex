@@ -204,3 +204,101 @@ Ha ε ≠ 0 → és több csatornában ugyanabba az irányba mutat:
 ──────────────────────────────────────────────────────────────
                  Θ‑EXPERIMENTS — DOKUMENTUM VÉGE
 ──────────────────────────────────────────────────────────────
+
+# 🖤 8. KÍSÉRLETI STÁTUSZ — MIT LEHET MOST, ÉS MIHEZ KELL ÚJ GYORSÍTÓ
+
+──────────────────────────────────────────────────────────────
+## MOST ELVÉGEZHETŐ (jelenlegi energia és konfiguráció)
+
+**LHC Run‑3 (ATLAS, CMS):**
+- Drell–Yan nagy‑tömegű farok
+- Z + jet / γ + jet differenciális eloszlások
+- Több‑jet korrelációk
+- Eseményalak‑változók (thrust, sphericity, N‑subjettiness)
+
+**LHCb + Belle II:**
+- B → K\*ℓℓ szögeloszlások
+- RK, RK\*
+- Ritka K‑bomlások (NA62, KOTO)
+
+**Heavy‑ion (ALICE, RHIC):**
+- Entrópia‑időgörbék
+- Relaxációs mintázatok
+- Centralitás‑függő Θ‑torzulások
+
+**Neutrínó‑kísérletek (T2K, NOvA, Super‑K, IceCube):**
+- Irányfüggő oszcillációs torzulások
+- Effektív Δm²‑eltolódások
+- Anyaghatás‑függő Θ‑mintázatok
+
+**Precíziós mérések:**
+- (g−2)\_μ
+- EDM‑ek
+- Atomfizikai paritássértés
+
+──────────────────────────────────────────────────────────────
+## ÚJ GYORSÍTÓT IGÉNYEL
+
+**FCC‑hh / SPPC:**
+- Extrém nagy‑Q² Θ‑torzulások
+- Higgs‑öncsatolás mező‑szintű eltérései
+
+**FCC‑ee / ILC / CLIC:**
+- Tiszta e⁺e⁻ Higgs‑fizika
+- Θ‑függő finom csatolás‑torzulások
+
+**Neutrínó‑gyár:**
+- Teljes Θ‑neutrínó‑térkép
+- Irány‑energia‑idő hármas fit
+
+──────────────────────────────────────────────────────────────
+**Összegzés:**  
+A Θ‑kísérletek ~70%-a **már most** elvégezhető.  
+A maradék 30% a következő generáció feladata.
+──────────────────────────────────────────────────────────────
+
+
+
+# 🖤 9. A Θ‑PARAMÉTER BEILLESZTÉSE A FIT‑MODELLEKBE
+
+──────────────────────────────────────────────────────────────
+A Θ‑kísérletek lényege:
+
+**nem új csúcsot keresünk,  
+hanem a teljes eloszlás finom torzulását.**
+
+Ezért minden analízisben bevezethető egyetlen extra szabadsági fok:
+
+**σ_eff = σ_SM · (1 + ε · fΘ(X))**
+
+ahol:
+
+- **ε** — a Θ‑mező erőssége (kicsi, dimenziótlan)  
+- **fΘ(X)** — a torzítás alakfüggvénye (folyamatfüggő, de struktúrált)
+
+──────────────────────────────────────────────────────────────
+## Fit‑elv
+
+- ha **ε = 0** → nincs Θ‑jel a jelenlegi pontosságon  
+- ha **ε ≠ 0** → több csatornában ugyanabba az irányba kell mutatnia  
+- ha az alakfüggvények hasonlóak → Θ‑mezőre utal
+
+──────────────────────────────────────────────────────────────
+
+
+
+# 🖤 10. PRIORITÁSI LISTA — HA CSAK 3 Θ‑TESZTET FUTTATHATSZ LE
+
+──────────────────────────────────────────────────────────────
+**1. Drell–Yan nagy‑tömegű farok (ATLAS/CMS)**  
+A legérzékenyebb Θ‑torzítás a nagy‑Q² tartományban.
+
+**2. B → K\*ℓℓ + RK, RK\* (LHCb, Belle II)**  
+A flavor‑függő Θ‑paraméterek itt mutatkoznak meg először.
+
+**3. Neutrínó‑oszcillációk irányfüggése (T2K/NOvA + atmoszférikus)**  
+A Θ‑mező globális szerkezete miatt ez a legmélyebb szonda.
+
+──────────────────────────────────────────────────────────────
+**Ha ez a három konzisztens ε‑irányt mutat → Θ‑mező jel.**
+──────────────────────────────────────────────────────────────
