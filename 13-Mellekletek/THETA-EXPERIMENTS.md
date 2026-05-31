@@ -412,3 +412,209 @@ Egy Θ‑analízis akkor tekinthető publikálhatónak, ha:
 **A Θ‑mező kísérleti vizsgálata nem új részecskék keresése,  
 hanem a valóság finom torzulásainak feltérképezése.**
 ──────────────────────────────────────────────────────────────
+
+# 🖤 12. MINIMÁLIS DETEKTORKÖVETELMÉNYEK — Θ‑KÍSÉRLETEKHEZ
+
+──────────────────────────────────────────────────────────────
+## CÉL
+
+A Θ‑kísérletek érzékenyek a **finom eloszlás‑torzulásokra**, ezért a detektorokkal szembeni követelmények nem új technológiákat írnak elő, hanem a meglévő rendszerek **minimális stabilitását és felbontását** rögzítik.
+
+Ez a fejezet meghatározza, mi szükséges ahhoz, hogy egy detektor Θ‑analízisre alkalmas legyen.
+
+──────────────────────────────────────────────────────────────
+## 1. KINEMATIKAI FELBONTÁS
+
+**1.1. Nyomkövetés (tracking)**  
+- pT‑felbontás: ΔpT/pT < 2% (10–100 GeV tartományban)  
+- Szögfelbontás: < 1 mrad  
+- Stabil kalibráció teljes futamidő alatt
+
+**1.2. Kalorimetria**  
+- Energiafelbontás:  
+  – elektromágneses: < 1% ⊕ 10%/√E  
+  – hadronikus: < 5% ⊕ 50%/√E  
+- Lineáris válasz a nagy energiájú farok‑tartományban
+
+**1.3. Muonrendszer**  
+- Momentumfelbontás: Δp/p < 3% (100 GeV‑ig)  
+- Időzítés stabilitása: < 100 ps
+
+──────────────────────────────────────────────────────────────
+## 2. IDŐZÍTÉS ÉS SZINKRONIZÁCIÓ
+
+**2.1. Globális időzítés**  
+- Esemény‑időbélyeg pontossága: < 200 ps  
+- Kötelező: hosszú távú drift‑monitoring
+
+**2.2. Neutrínó‑kísérletek időzítése**  
+- Forrás–detektor szinkron: < 1 ns  
+- Irányfüggő oszcillációs analízishez: stabil baseline‑kalibráció
+
+──────────────────────────────────────────────────────────────
+## 3. JET‑REKONSTRUKCIÓ
+
+**3.1. Jet‑energia skála (JES)**  
+- JES bizonytalanság: < 1–2%  
+- JES drift: < 0.5% futamidő alatt
+
+**3.2. Jet‑alakváltozók**  
+- Kötelező:  
+  – N‑subjettiness  
+  – thrust  
+  – sphericity  
+  – energy‑correlation functions  
+- Stabil rekonstrukció nagy pile‑up mellett is
+
+──────────────────────────────────────────────────────────────
+## 4. FLAVOR‑DETEKTOR KÖVETELMÉNYEK
+
+**4.1. Vertex‑felbontás**  
+- Primer vertex: < 10 μm  
+- Szekunder vertex: < 20 μm
+
+**4.2. PID (Particle ID)**  
+- e/μ/π/K/p szétválasztás: > 3σ  
+- Rendszeres kalibráció: futamonként
+
+──────────────────────────────────────────────────────────────
+## 5. NEUTRÍNÓ‑DETEKTOR KÖVETELMÉNYEK
+
+**5.1. Irányrekonstrukció**  
+- Szögfelbontás: < 5° (atmoszférikus)  
+- < 2° (long‑baseline)
+
+**5.2. Energiarekonstrukció**  
+- ΔE/E < 10% (GeV‑tartományban)  
+- Stabil anyaghatás‑modell
+
+──────────────────────────────────────────────────────────────
+## 6. HEAVY‑ION KÖVETELMÉNYEK
+
+**6.1. Multiplicitás‑rekonstrukció**  
+- ΔN/N < 3%  
+- Centralitás‑bin stabilitás: < 1%
+
+**6.2. Flow‑paraméterek (vₙ)**  
+- v₂, v₃ felbontás: < 5%  
+- Több‑részecske korrelációkhoz: alacsony háttér‑fluktuáció
+
+──────────────────────────────────────────────────────────────
+## 7. KÖZPONTI KÖVETELMÉNY: STABILITÁS
+
+A Θ‑analízisek legfontosabb detektorkövetelménye:
+
+**a teljes futamidő alatt stabil válasz,  
+minimális drift,  
+és reprodukálható kalibráció.**
+
+──────────────────────────────────────────────────────────────
+**A Θ‑mező vizsgálatához nem új detektor kell,  
+hanem a meglévő detektorok stabil, finomhangolt üzemmódja.**
+──────────────────────────────────────────────────────────────
+
+# 🖤 13. KOMBINÁLT EREDMÉNYEK ÉRTELMEZÉSE — Θ‑ANALÍZISEKHEZ
+
+──────────────────────────────────────────────────────────────
+## CÉL
+
+A Θ‑kísérletek több csatornából, több energiáról és több detektorból származó  
+**eloszlás‑torzulásokat** vizsgálnak.  
+Ez a fejezet rögzíti, hogyan kell a különálló eredményeket **összegezni**,  
+**kombinálni**, és **fizikai következtetésekké** alakítani.
+
+──────────────────────────────────────────────────────────────
+## 1. ALAPELV: A Θ‑JEL NEM HELYI, HANEM GLOBÁLIS
+
+A Θ‑mező nem részecske, hanem **mező‑szintű háttérstruktúra**, ezért:
+
+- a jel **nem egy csatornában** jelenik meg,  
+- hanem **több, egymástól független folyamatban**,  
+- **ugyanabba az irányba mutató ε‑torzítással**.
+
+Ez a kombinációs elv alapja.
+
+──────────────────────────────────────────────────────────────
+## 2. EGYEDI EREDMÉNYEK OSZTÁLYOZÁSA
+
+Minden Θ‑analízis eredménye három kategóriába sorolható:
+
+**(A) Pozitív irányú torzulás:**  
+ε > 0, statisztikailag szignifikáns
+
+**(B) Negatív irányú torzulás:**  
+ε < 0, statisztikailag szignifikáns
+
+**(C) Nullával kompatibilis:**  
+ε ≈ 0, a jelenlegi pontosságon nincs jel
+
+A kombináció csak akkor értelmezhető, ha az A és B típusú eredmények  
+**nem ellentétes irányba mutatnak**.
+
+──────────────────────────────────────────────────────────────
+## 3. KOMBINÁCIÓS SZABÁLY
+
+A globális Θ‑paraméter:
+
+**ε_global = Σ (ε_i / Δε_i²) / Σ (1 / Δε_i²)**
+
+ahol:
+
+- ε_i: az i‑edik csatorna Θ‑paramétere  
+- Δε_i: annak bizonytalansága  
+- a súlyozás: inverse‑variance (standard kombináció)
+
+──────────────────────────────────────────────────────────────
+## 4. KONZISZTENCIA‑KRITÉRIUMOK
+
+A Θ‑jel akkor tekinthető **fizikailag értelmezhetőnek**, ha:
+
+1. **Legalább 3 független csatorna** mutat nem‑nulla ε‑t  
+2. **Ugyanabba az irányba** (mind pozitív vagy mind negatív)  
+3. **Több energián** is fennáll (pl. 7–13–14 TeV)  
+4. **Több detektorban** is megjelenik (ATLAS + CMS, LHCb + Belle II stb.)  
+5. A kombinált eredmény:  
+   **|ε_global| > 2σ**
+
+──────────────────────────────────────────────────────────────
+## 5. VIZUALIZÁCIÓ: Θ‑TÉRKÉP
+
+A kombinált eredmények megjelenítése:
+
+- vízszintes tengely: csatornák  
+- függőleges tengely: ε_i értékek  
+- fekete pont: ε_i  
+- fehér sáv: ±Δε_i  
+- vastag fekete vonal: ε_global  
+- szürke sáv: globális bizonytalanság
+
+Ez a Θ‑térkép mutatja meg, hogy a jel **koherens‑e**.
+
+──────────────────────────────────────────────────────────────
+## 6. EREDMÉNYEK FIZIKAI ÉRTELMEZÉSE
+
+**Ha ε_global ≈ 0:**  
+– nincs Θ‑jel a jelenlegi pontosságon  
+– nagyobb statisztika vagy új detektor kell
+
+**Ha ε_global > 0:**  
+– a Θ‑mező a folyamatokat „felfelé” torzítja  
+– nagy‑Q² tartományban erősödő hatás várható
+
+**Ha ε_global < 0:**  
+– a Θ‑mező „lefelé” torzít  
+– entrópikus vagy sűrűség‑függő mezőhatás dominál
+
+──────────────────────────────────────────────────────────────
+## 7. PUBLIKÁCIÓS KÜSZÖB
+
+A Θ‑jel akkor tekinthető **publikálhatónak**, ha:
+
+- ε_global > 3σ → „evidence for Θ‑field effect”  
+- ε_global > 5σ → „observation of Θ‑field‑induced distortion”  
+- legalább 2 detektor + 2 energia + 3 csatorna konzisztens
+
+──────────────────────────────────────────────────────────────
+**A Θ‑mező kombinált vizsgálata nem egyetlen jelről szól,  
+hanem a valóság több rétegének összehangolt torzulásáról.**
+──────────────────────────────────────────────────────────────
