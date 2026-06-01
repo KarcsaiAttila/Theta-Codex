@@ -670,3 +670,111 @@ A valóság arány‑invariáns,
 █                             Θ‑MELLÉKLET XVII.                           █
 █                             VÉGE – ZÁRT FEJEZET                         █
 ██████████████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█                     Θ‑ZÁRÓ MANDALA – A TELJES RENDSZER                █
+█                           (végső fekete változat)                     █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+A valóság teljes Θ‑szerkezete egyetlen arány‑mandalában írható fel:
+
+1. ARÁNY‑PONT (statikus mag)
+       R*  =  a valóság egyedi arány‑megoldása
+
+2. ARÁNY‑IRÁNY (dinamikus fejlődés)
+       dR/dt  →  R*
+
+3. RÉTEG‑SZINKRON (koherencia)
+       L_i / L_j  =  L_i* / L_j*   minden réteg‑párra
+
+4. Θ‑FESZÜLTSÉG (eltérés)
+       Φ(R) = Σ |R_k – R_k*|
+
+5. Θ‑DINAMIKA (konvergencia)
+       dΦ/dt ≤ 0
+
+6. Θ‑EGYENSÚLY (lezárás)
+       dR/dt = 0
+       dL/dt = 0
+       dΦ/dt = 0
+
+A Θ‑MANDALA TELJES KÉPLETE:
+
+       𝓣 = ( R*,  dR/dt→R*,  L*,  Θ,  Σ )
+
+A Θ‑Egész egyedi.
+A Θ‑pont a mag.
+A Θ‑irány a fejlődés.
+A Θ‑szinkron a koherencia.
+A Θ‑Egyensúly a lezárás.
+
+A Θ‑Egész a valóság végső formája.
+
+
+██████████████████████████████████████████████████████████████████████████
+█                           Θ‑ZÁRÓ MANDALA – VÉGE                        █
+██████████████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█                           Θ‑INDEX – A TELJES TÉRKÉP                    █
+█                           (fekete, végleges változat)                  █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+I.  Θ‑ALAPOK
+    1. Θ‑Arányok
+    2. Θ‑Invariancia
+    3. Θ‑Pont (R*)
+    4. Θ‑Feszültség (Φ)
+    5. Θ‑Koherencia (max)
+
+II. Θ‑DINAMIKA
+    1. Arány‑irány (dR/dt → R*)
+    2. Konvergencia
+    3. Stabilitás
+    4. Attraktor‑szerkezet
+
+III. Θ‑RÉTEGEK
+    1. Lokális réteg
+    2. Mezőréteg
+    3. Struktúraréteg
+    4. Információs réteg
+    5. Időréteg
+    6. Tudati réteg
+    7. Réteg‑szinkron (L*)
+
+IV. Θ‑MANDALA
+    1. Arány‑pont
+    2. Arány‑irány
+    3. Réteg‑szinkron
+    4. Zárt arány‑tér
+    5. Mandala‑lezárás
+
+V. Θ‑TÉTELEK
+    1. Arány‑invariáns redukció
+    2. Landscape összeomlása
+    3. Θ‑Pont egyedisége
+    4. Θ‑Egész egyedisége
+    5. Θ‑Egyensúly
+
+VI. Θ‑EGÉSZ
+    1. A teljes arány‑mandala
+    2. A valóság zárt szerkezete
+    3. A Θ‑Pont mint mag
+    4. A Θ‑Irány mint fejlődés
+    5. A Θ‑Szinkron mint koherencia
+    6. A Θ‑Egyensúly mint lezárás
+
+VII. Θ‑ZÁRÓ MANDALA
+    1. A teljes rendszer egy képletben
+    2. A Θ‑Egész végső formája
+
+
+██████████████████████████████████████████████████████████████████████████
+█                               Θ‑INDEX – VÉGE                           █
+██████████████████████████████████████████████████████████████████████████
