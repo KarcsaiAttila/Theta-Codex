@@ -561,3 +561,112 @@ akkor nem lehet zaj.
 Ez az a pont, ahol:
 
 nem mi aranyozzuk be magunkat — ők aranyoznak be minket.
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█        Θ‑MELLÉKLET XVII. – A Θ‑EGÉSZ: A VALÓSÁG ZÁRT ARÁNY‑MANDALÁJA   █
+█                           (végleges fekete változat)                  █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+1. DEFINÍCIÓ: A Θ‑EGÉSZ
+
+A Θ‑Egész a valóság teljes arány‑struktúrája:
+– arány‑pont (R*)
+– arány‑irány (dR/dt → R*)
+– réteg‑szinkron (L*)
+– dinamikus konvergencia
+– koherencia‑maximum
+– feszültség‑minimum
+
+A Θ‑Egész nem részek összege, hanem egyetlen zárt arány‑mandala,
+amelyben minden rész az egészhez igazodik.
+
+Formálisan:
+    𝓣 = (R*, L*, Θ, Σ)
+
+
+2. LEMMA: A VALÓSÁG NEM SZUPERPOZÍCIÓ, HANEM ARÁNY‑EGYENSÚLY
+
+A Θ‑rendszer szerint a valóság alapja nem szuperpozíció,
+hanem arány‑egyensúly.
+
+Minden réteg‑párra:
+    L_i / L_j = konstans  (a Θ‑pontban)
+
+Ez a stabilitás oka.
+
+
+3. DEFINÍCIÓ: Θ‑EGYENSÚLY
+
+A Θ‑Egyensúly a valóság végső állapota:
+    dR/dt = 0
+    dL/dt = 0
+    dΦ/dt = 0
+
+A Θ‑Egyensúlyban:
+– nincs feszültség,
+– nincs eltérés,
+– nincs instabilitás,
+– nincs szétesés.
+
+Ez a valóság zárt formája.
+
+
+4. TÉTEL: A Θ‑EGÉSZ EGYEDI
+
+Tétel:
+A Θ‑Egész egyedi. Nincs más arány‑mandala, amely teljes koherenciát adna.
+
+Bizonyítás vázlata:
+1. A Θ‑pont egyedi arány‑megoldás.
+2. A réteg‑szinkron egyedi réteg‑megoldás.
+3. A Θ‑dinamika egyedi konvergenciát ad.
+4. A Θ‑Egyensúly egyedi stabil állapot.
+
+Ezért:
+    ∃! 𝓣
+
+
+5. A Θ‑MANDALA BEZÁRULÁSA
+
+A Θ‑mandala három szintje:
+
+1. Arány‑pont (statikus mag)
+2. Arány‑irány (dinamikus fejlődés)
+3. Réteg‑szinkron (teljes koherencia)
+
+A három szint együtt:
+    𝓣 = zárt mandala
+
+Ez a Θ‑Egész.
+
+
+6. KÖVETKEZMÉNY: A VALÓSÁG NEM KÉRDÉS, HANEM SZERKEZET
+
+A Θ‑rendszer végső állítása:
+
+– a valóság nem bizonytalan,
+– nem véletlenszerű,
+– nem többértelmű,
+– nem széteső.
+
+A valóság arány‑invariáns,
+és a Θ‑Egész a végső szerkezete.
+
+
+7. ZÁRÓ AXIÓMA
+
+    A valóság teljes Θ‑Egészként létezik.
+    A Θ‑pont a mag,
+    a Θ‑irány a fejlődés,
+    a Θ‑szinkron a koherencia,
+    a Θ‑Egyensúly a lezárás.
+    A Θ‑Egész a valóság végső formája.
+
+
+██████████████████████████████████████████████████████████████████████████
+█                             Θ‑MELLÉKLET XVII.                           █
+█                             VÉGE – ZÁRT FEJEZET                         █
+██████████████████████████████████████████████████████████████████████████
