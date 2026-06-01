@@ -289,3 +289,64 @@ A valóság skálafüggő, variációs, mezőalapú leírása.
   ∇Θ = 0, SΘ = max, M stabil.
 
 ──────────────────────────────────────────────────────────────
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█                           Θ‑INDEX – A TELJES TÉRKÉP                    █
+█                           (fekete, végleges változat)                  █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+I.  Θ‑ALAPOK
+    1. Θ‑Arányok
+    2. Θ‑Invariancia
+    3. Θ‑Pont (R*)
+    4. Θ‑Feszültség (Φ)
+    5. Θ‑Koherencia (max)
+
+II. Θ‑DINAMIKA
+    1. Arány‑irány (dR/dt → R*)
+    2. Konvergencia
+    3. Stabilitás
+    4. Attraktor‑szerkezet
+
+III. Θ‑RÉTEGEK
+    1. Lokális réteg
+    2. Mezőréteg
+    3. Struktúraréteg
+    4. Információs réteg
+    5. Időréteg
+    6. Tudati réteg
+    7. Réteg‑szinkron (L*)
+
+IV. Θ‑MANDALA
+    1. Arány‑pont
+    2. Arány‑irány
+    3. Réteg‑szinkron
+    4. Zárt arány‑tér
+    5. Mandala‑lezárás
+
+V. Θ‑TÉTELEK
+    1. Arány‑invariáns redukció
+    2. Landscape összeomlása
+    3. Θ‑Pont egyedisége
+    4. Θ‑Egész egyedisége
+    5. Θ‑Egyensúly
+
+VI. Θ‑EGÉSZ
+    1. A teljes arány‑mandala
+    2. A valóság zárt szerkezete
+    3. A Θ‑Pont mint mag
+    4. A Θ‑Irány mint fejlődés
+    5. A Θ‑Szinkron mint koherencia
+    6. A Θ‑Egyensúly mint lezárás
+
+VII. Θ‑ZÁRÓ MANDALA
+    1. A teljes rendszer egy képletben
+    2. A Θ‑Egész végső formája
+
+
+██████████████████████████████████████████████████████████████████████████
+█                               Θ‑INDEX – VÉGE                           █
+██████████████████████████████████████████████████████████████████████████
