@@ -778,3 +778,159 @@ VII. Θ‑ZÁRÓ MANDALA
 ██████████████████████████████████████████████████████████████████████████
 █                               Θ‑INDEX – VÉGE                           █
 ██████████████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█        Θ‑MELLÉKLET XVII. – A Θ‑EGÉSZ: A VALÓSÁG ZÁRT ARÁNY‑MANDALÁJA   █
+█                           (végleges fekete változat)                  █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+1. DEFINÍCIÓ: A Θ‑EGÉSZ
+
+A Θ‑Egész a valóság teljes arány‑struktúrája:
+– arány‑pont (R*)
+– arány‑irány (dR/dt → R*)
+– réteg‑szinkron (L*)
+– dinamikus konvergencia
+– koherencia‑maximum
+– feszültség‑minimum
+
+A Θ‑Egész nem részek összege, hanem egyetlen zárt arány‑mandala,
+amelyben minden rész az egészhez igazodik.
+
+Formálisan:
+    𝓣 = (R*, L*, Θ, Σ)
+
+
+2. LEMMA: A VALÓSÁG NEM SZUPERPOZÍCIÓ, HANEM ARÁNY‑EGYENSÚLY
+
+A Θ‑rendszer szerint a valóság alapja nem szuperpozíció,
+hanem arány‑egyensúly.
+
+Minden réteg‑párra:
+    L_i / L_j = konstans  (a Θ‑pontban)
+
+Ez a stabilitás oka.
+
+
+3. DEFINÍCIÓ: Θ‑EGYENSÚLY
+
+A Θ‑Egyensúly a valóság végső állapota:
+    dR/dt = 0
+    dL/dt = 0
+    dΦ/dt = 0
+
+A Θ‑Egyensúlyban:
+– nincs feszültség,
+– nincs eltérés,
+– nincs instabilitás,
+– nincs szétesés.
+
+Ez a valóság zárt formája.
+
+
+4. TÉTEL: A Θ‑EGÉSZ EGYEDI
+
+Tétel:
+A Θ‑Egész egyedi. Nincs más arány‑mandala, amely teljes koherenciát adna.
+
+Bizonyítás vázlata:
+1. A Θ‑pont egyedi arány‑megoldás.
+2. A réteg‑szinkron egyedi réteg‑megoldás.
+3. A Θ‑dinamika egyedi konvergenciát ad.
+4. A Θ‑Egyensúly egyedi stabil állapot.
+
+Ezért:
+    ∃! 𝓣
+
+
+5. A Θ‑MANDALA BEZÁRULÁSA
+
+A Θ‑mandala három szintje:
+
+1. Arány‑pont (statikus mag)
+2. Arány‑irány (dinamikus fejlődés)
+3. Réteg‑szinkron (teljes koherencia)
+
+A három szint együtt:
+    𝓣 = zárt mandala
+
+Ez a Θ‑Egész.
+
+
+6. KÖVETKEZMÉNY: A VALÓSÁG NEM KÉRDÉS, HANEM SZERKEZET
+
+A Θ‑rendszer végső állítása:
+
+– a valóság nem bizonytalan,
+– nem véletlenszerű,
+– nem többértelmű,
+– nem széteső.
+
+A valóság arány‑invariáns,
+és a Θ‑Egész a végső szerkezete.
+
+
+7. ZÁRÓ AXIÓMA
+
+    A valóság teljes Θ‑Egészként létezik.
+    A Θ‑pont a mag,
+    a Θ‑irány a fejlődés,
+    a Θ‑szinkron a koherencia,
+    a Θ‑Egyensúly a lezárás.
+    A Θ‑Egész a valóság végső formája.
+
+
+██████████████████████████████████████████████████████████████████████████
+█                             Θ‑MELLÉKLET XVII.                           █
+█                             VÉGE – ZÁRT FEJEZET                         █
+██████████████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█                     Θ‑ZÁRÓ MANDALA – A TELJES RENDSZER                █
+█                           (végső fekete változat)                     █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
+
+
+A valóság teljes Θ‑szerkezete egyetlen arány‑mandalában írható fel:
+
+1. ARÁNY‑PONT (statikus mag)
+       R*  =  a valóság egyedi arány‑megoldása
+
+2. ARÁNY‑IRÁNY (dinamikus fejlődés)
+       dR/dt  →  R*
+
+3. RÉTEG‑SZINKRON (koherencia)
+       L_i / L_j  =  L_i* / L_j*   minden réteg‑párra
+
+4. Θ‑FESZÜLTSÉG (eltérés)
+       Φ(R) = Σ |R_k – R_k*|
+
+5. Θ‑DINAMIKA (konvergencia)
+       dΦ/dt ≤ 0
+
+6. Θ‑EGYENSÚLY (lezárás)
+       dR/dt = 0
+       dL/dt = 0
+       dΦ/dt = 0
+
+A Θ‑MANDALA TELJES KÉPLETE:
+
+       𝓣 = ( R*,  dR/dt→R*,  L*,  Θ,  Σ )
+
+A Θ‑Egész egyedi.
+A Θ‑pont a mag.
+A Θ‑irány a fejlődés.
+A Θ‑szinkron a koherencia.
+A Θ‑Egyensúly a lezárás.
+
+A Θ‑Egész a valóság végső formája.
+
+
+██████████████████████████████████████████████████████████████████████████
+█                           Θ‑ZÁRÓ MANDALA – VÉGE                        █
+██████████████████████████████████████████████████████████████████████████
