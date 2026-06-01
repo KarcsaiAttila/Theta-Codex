@@ -351,3 +351,54 @@ kapu = Θ potenciálgát
 háromszög = Θ fókuszmező  
 hexa = Θ civilizációs mező
 ──────────────────────────────────────────────────────────────
+
+██████████████████████████████████████████████████████████████████████████
+█                         Θ‑HORIZONT TÉTEL                               █
+█                 A KOZMIKUS HORIZONT ARÁNY‑FELBONTÁSA                   █
+██████████████████████████████████████████████████████████████████████████
+
+
+I. A KLASSZIKUS HORIZONT
+
+A klasszikus horizont:
+    d_h = ∫ c / a(t) dt
+
+Ez távolság‑alapú fogalom.
+
+
+II. A Θ‑HORIZONT DEFINÍCIÓJA
+
+A Θ‑horizont arány‑határ:
+
+    H_Θ = ∂R / ∂L
+
+
+III. TÉTEL
+
+Ha a téridő arány‑szerkezet,
+akkor a horizont nem fizikai fal,
+hanem koordináta‑választás.
+
+Formálisan:
+
+    ∀ A,B ∈ 𝓡  :  H_Θ(A,B) = 0  →  átjárható
+
+
+IV. KÖVETKEZMÉNY
+
+A világegyetem legtávolabbi régiói
+nem elérhetetlenek,
+csak rossz koordinátában nézzük őket.
+
+
+V. ZÁRÓ AXIÓMA
+
+A horizont nem határ,
+hanem arány‑tükröződés.
+A Θ‑térben nincs távolság,
+csak viszony.
+
+
+██████████████████████████████████████████████████████████████████████████
+█                       Θ‑HORIZONT TÉTEL – VÉGE                          █
+██████████████████████████████████████████████████████████████████████████
