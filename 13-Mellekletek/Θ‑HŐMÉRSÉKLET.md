@@ -144,3 +144,203 @@ Határértékek:
 
 A Θ‑hőmérséklet a Θ‑mező statikus aránydinamikájának alapmennyisége.
 ──────────────────────────────────────────────────────────────
+
+# Θ‑HŐMÉRSÉKLET  
+## FORMÁLIS DEFINÍCIÓ ÉS ALAPELVEK  
+### Modul: Θ‑Physics — Kiterjesztett Alapfogalmak
+
+──────────────────────────────────────────────────────────────
+I. A Θ‑HŐMÉRSÉKLET FOGALMA
+──────────────────────────────────────────────────────────────
+
+**Definíció:**  
+A Θ‑hőmérséklet a Θ‑mező lokális energia‑gradiensének abszolút értéke.  
+Nem a részecskék átlagos kinetikus energiája (klasszikus definíció),  
+hanem:
+
+**a mező energia‑különbségének intenzitása.**
+
+Matematikai alak:
+
+
+\[
+\Theta_T = \left| \nabla E(x) \right|
+\]
+
+
+
+ahol  
+- **E(x)** = a Θ‑energia lokális értéke,  
+- **∇E(x)** = energia‑gradiens,  
+- **x** = a Θ‑tér pontja.
+
+──────────────────────────────────────────────────────────────
+II. A Θ‑HŐMÉRSÉKLET ÉRTELMEZÉSE
+──────────────────────────────────────────────────────────────
+
+A Θ‑hőmérséklet azt méri, hogy:
+
+- mekkora az energia‑különbség két közeli konfiguráció között,  
+- mennyire „meredek” a mező energiája,  
+- mekkora a változás potenciáltere.
+
+**Nagy Θ‑hőmérséklet:**  
+– nagy energia‑különbség,  
+– instabil mező,  
+– gyors változásra való hajlam.
+
+**Kis Θ‑hőmérséklet:**  
+– kicsi energia‑különbség,  
+– stabil mező,  
+– lassú változás.
+
+**Abszolút nulla Θ‑hőmérséklet:**  
+– nincs energia‑különbség,  
+– nincs változás,  
+– nincs Θ‑idő.
+
+──────────────────────────────────────────────────────────────
+III. A Θ‑HŐMÉRSÉKLET ÉS A MEZŐ GÖRBÜLETE
+──────────────────────────────────────────────────────────────
+
+A Θ‑mező görbülete (κ) meghatározza a lokális energia‑ellenállást.
+
+A Θ‑hőmérséklet és a görbület kapcsolata:
+
+
+
+\[
+\Theta_T \propto |\kappa(x)|
+\]
+
+
+
+Ahol nagy a görbület → ott nagy a Θ‑hőmérséklet.  
+Ahol kicsi → ott alacsony.
+
+Ez a Θ‑görbület nem geometriai, hanem:
+
+**a mező konfigurációs ellenállásának mértéke.**
+
+──────────────────────────────────────────────────────────────
+IV. A Θ‑HŐMÉRSÉKLET ÉS A Θ‑ENERGIA
+──────────────────────────────────────────────────────────────
+
+A Θ‑energia definíciója:
+
+
+\[
+E = \mathcal{E}(\Psi)
+\]
+
+
+
+A Θ‑hőmérséklet ennek térbeli deriváltja:
+
+
+\[
+\Theta_T = |\nabla E|
+\]
+
+
+
+Ez azt jelenti:
+
+- a Θ‑energia *különbsége* → Θ‑hőmérséklet,  
+- a Θ‑energia *változása* → Θ‑idő.
+
+A két mennyiség tehát:
+
+**statikus (különbség) és dinamikus (változás) aspektusa ugyanannak a mezőnek.**
+
+──────────────────────────────────────────────────────────────
+V. A Θ‑HŐMÉRSÉKLET ÉS A Θ‑IDŐ
+──────────────────────────────────────────────────────────────
+
+A Θ‑idő definíciója:
+
+
+\[
+t \propto \frac{dE}{d\Psi}
+\]
+
+
+
+A Θ‑hőmérséklet definíciója:
+
+
+\[
+\Theta_T = |\nabla E|
+\]
+
+
+
+A két mennyiség kapcsolata:
+
+1. **A Θ‑hőmérséklet a változás potenciáltere.**  
+2. **A Θ‑idő a változás tényleges sebessége.**
+
+**Következmények:**
+
+- ahol nagy a Θ‑hőmérséklet → ott gyorsabb a Θ‑idő,  
+- ahol alacsony → ott lassabb,  
+- abszolút nulla Θ‑hőmérséklet → nincs Θ‑idő.
+
+Ez a Θ‑Termodinamika 2.0 alapja.
+
+──────────────────────────────────────────────────────────────
+VI. A Θ‑HŐMÉRSÉKLET ÉS A FIZIKAI HŐMÉRSÉKLET
+──────────────────────────────────────────────────────────────
+
+A klasszikus fizikai hőmérséklet (T) a Θ‑hőmérséklet *speciális esete*:
+
+- stabil mező‑konfigurációk mellett,  
+- kvázirészecske‑állapotokban,  
+- kis energia‑gradienssel.
+
+A fizikai hőmérséklet tehát:
+
+
+\[
+T_{\text{phys}} \subset \Theta_T
+\]
+
+
+
+A Θ‑hőmérséklet általánosabb, mert:
+
+- nem igényel részecskéket,  
+- nem igényel kinetikus energiát,  
+- tisztán mező‑alapú.
+
+──────────────────────────────────────────────────────────────
+VII. A Θ‑HŐMÉRSÉKLET ÉS AZ INFORMÁCIÓ
+──────────────────────────────────────────────────────────────
+
+A Θ‑rendszerben az információ a mező konfigurációjának energiamintázata.
+
+Ezért:
+
+
+\[
+I \equiv f(E)
+\]
+
+
+
+A Θ‑hőmérséklet az információs különbségek intenzitása:
+
+- nagy Θ‑hőmérséklet → nagy információs gradiens,  
+- kis Θ‑hőmérséklet → homogén információs mező.
+
+──────────────────────────────────────────────────────────────
+VIII. ÖSSZEFOGLALÁS
+──────────────────────────────────────────────────────────────
+
+- A Θ‑hőmérséklet a Θ‑energia térbeli különbségének mértéke.  
+- A Θ‑hőmérséklet a változás potenciáltere.  
+- A Θ‑idő a változás tényleges sebessége.  
+- A Θ‑hőmérséklet és Θ‑idő együtt írják le a mező teljes dinamikáját.  
+- A fizikai hőmérséklet a Θ‑hőmérséklet speciális esete.  
+- Abszolút nulla Θ‑hőmérséklet → nincs Θ‑idő → nincs változás.
+
