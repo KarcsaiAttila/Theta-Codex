@@ -143,3 +143,135 @@ alapgörbület = Higgs‑analóg
 globális görbület = gravitációs analóg  
 rejtett pálya = sötét anyag analóg
 ──────────────────────────────────────────────────────────────
+
+# Θ‑IDŐ ÉS Θ‑HŐMÉRSÉKLET  
+## FORMÁLIS DEFINÍCIÓK ÉS A KÉT MENNYISÉG KAPCSOLATA  
+### Modul: Θ‑Physics — Kiterjesztett Alapfogalmak
+
+──────────────────────────────────────────────────────────────
+I. Θ‑IDŐ — FORMÁLIS DEFINÍCIÓ
+──────────────────────────────────────────────────────────────
+
+**Definíció:**  
+A Θ‑idő nem alapdimenzió, hanem *emergens mennyiség*, amely a rendszer
+energiaállapotának változásából születik.
+
+Matematikai alak:
+
+
+\[
+t \equiv k_t \cdot \frac{dE}{d\Psi}
+\]
+
+
+
+ahol  
+- **E** = a rendszer lokális energiaállapota,  
+- **Ψ** = a konfigurációs állapot (mező, információ, pálya),  
+- **k_t** = időskála‑állandó.
+
+**Értelmezés:**  
+- ahol energia változik → ott idő keletkezik,  
+- ahol energia nem változik → ott nincs idő,  
+- ahol gyorsan változik → ott gyorsabb az idő,  
+- ahol lassan változik → ott lassabb az idő.
+
+Ez összhangban áll a Θ‑tér pálya‑fogalmával, ahol az időbeli állapotváltozás
+a pálya leképezésének része .
+
+**Következmény:**  
+A Θ‑idő *lokális*, nem univerzális.  
+Minden mező‑konfiguráció saját időskálát generál.
+
+──────────────────────────────────────────────────────────────
+II. Θ‑HŐMÉRSÉKLET — FORMÁLIS DEFINÍCIÓ
+──────────────────────────────────────────────────────────────
+
+**Definíció:**  
+A Θ‑hőmérséklet a Θ‑mező lokális energia‑gradiensének abszolút értéke.
+
+Matematikai alak:
+
+
+\[
+\Theta_T = \left| \nabla E(x) \right|
+\]
+
+
+
+ahol  
+- **∇E(x)** = az energia térbeli változása,  
+- **x** = a Θ‑tér pontja.
+
+**Értelmezés:**  
+- ahol nagy az energia‑különbség → ott nagy a Θ‑hőmérséklet,  
+- ahol kicsi → ott alacsony,  
+- ahol nulla → ott nincs hőmérséklet.
+
+Ez illeszkedik a Θ‑tér görbületi szerkezetéhez, ahol a lokális ellenállás
+és energiaeloszlás meghatározza a stabilitási potenciált .
+
+──────────────────────────────────────────────────────────────
+III. A KÉT MENNYISÉG KAPCSOLATA
+──────────────────────────────────────────────────────────────
+
+A Θ‑idő és Θ‑hőmérséklet ugyanannak a jelenségnek két oldala:
+
+- **Θ‑idő** = energia *változásának sebessége*  
+- **Θ‑hőmérséklet** = energia *különbségének intenzitása*
+
+Ez a kapcsolat a következőképpen írható fel:
+
+
+
+\[
+t \propto \frac{dE}{d\Psi}
+\quad\text{és}\quad
+\Theta_T = |\nabla E|
+\]
+
+
+
+**Fizikai következmények:**
+
+1. **Ahol nagy a Θ‑hőmérséklet → ott gyorsabb a Θ‑idő.**  
+   (nagy energia‑különbség → gyors állapotváltozás)
+
+2. **Ahol alacsony a Θ‑hőmérséklet → ott lassabb a Θ‑idő.**
+
+3. **Abszolút nulla Θ‑hőmérséklet → nincs Θ‑idő.**  
+   (nincs energia‑különbség → nincs változás → nincs idő)
+
+Ez összhangban áll a Θ‑tér stabilitási zónáival, ahol a görbület lokális
+minimuma kvázirészecske‑állapotot hoz létre, és az idő csak a dinamikus
+rétegben jelenik meg .
+
+──────────────────────────────────────────────────────────────
+IV. A Θ‑IDŐ ÉS Θ‑HŐMÉRSÉKLET HELYE A Θ‑RENDSZERBEN
+──────────────────────────────────────────────────────────────
+
+A Θ‑rendszer három rétege:
+
+1. **Invariáns mező (𝓕₀)**  
+   – időtlen, hőmérséklet nélküli alapállapot.
+
+2. **Dinamikus mező (φ)**  
+   – itt születik a Θ‑idő (energia‑változás),  
+   – itt jelenik meg a Θ‑hőmérséklet (energia‑gradiens).
+
+3. **Emergens réteg (ψ)**  
+   – itt érzékelhető az idő,  
+   – itt manifesztálódik a hőmérséklet mint tapasztalat.
+
+──────────────────────────────────────────────────────────────
+V. ÖSSZEFOGLALÁS
+──────────────────────────────────────────────────────────────
+
+- A Θ‑idő az energiaállapot-változás mértéke.  
+- A Θ‑hőmérséklet az energia‑különbség intenzitása.  
+- A két mennyiség együtt írja le a Θ‑mező teljes energetikai szerkezetét.  
+- A Θ‑idő csak ott létezik, ahol a Θ‑hőmérséklet nem nulla.  
+- A Θ‑hőmérséklet a Θ‑idő potenciáltere.
+
+Ez a fejezet a Θ‑Physics és a Formális Definíciók modul közé illeszkedik,
+összhangban a Θ‑tér, pálya és görbület fogalmaival .
