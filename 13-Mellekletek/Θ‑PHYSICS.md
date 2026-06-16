@@ -43,6 +43,7 @@ Nem sérti a kauzalitást, energiamegmaradást, gauge‑szimmetriákat.
 █                             VÉGE — Θ‑PHYSICS                            █
 ██████████████████████████████████████████████████████████████████████████
 
+A teljes 3D→7D fekete lyuk diagram (végleges)
 7D — RENDSZERMEZŐ
 │   • teljes fekete lyuk identitás
 │   • stabil konfiguráció
