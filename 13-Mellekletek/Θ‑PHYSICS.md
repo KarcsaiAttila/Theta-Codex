@@ -43,3 +43,23 @@ Nem sérti a kauzalitást, energiamegmaradást, gauge‑szimmetriákat.
 █                             VÉGE — Θ‑PHYSICS                            █
 ██████████████████████████████████████████████████████████████████████████
 
+7D — RENDSZERMEZŐ
+│   • teljes fekete lyuk identitás
+│   • stabil konfiguráció
+│
+6D — MINTÁZATMEZŐ
+│   • összeomlási mintázatok
+│   • topológiai struktúrák
+│
+5D — INFORMÁCIÓS MEZŐ
+│   • információs sűrűsödés
+│   • koherencia maximum
+│
+4D — ÁLLAPOTTÉR
+│   • összeomlási állapotok
+│   • fázisátmenetek
+│
+3D — VETÜLET
+    • tömeg
+    • horizont
+    • gravitációs hullámok
